@@ -1,0 +1,3082 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <element>
+    <flag>https:\/\/restcountries.eu\/data\/afg.svg</flag>
+    <name>Afghanistan</name>
+    <capital>Kabul</capital>
+    <region>Asia</region>
+    <subregion>Southern Asia</subregion>
+    <population>27657145</population>
+    <area>652230.0</area>
+    <timezones>
+      <element>UTC+04:30</element>
+    </timezones>
+  </element>
+  <element>
+    <flag>https:\/\/restcountries.eu\/data\/ala.svg</flag>
+    <name>Åland Islands</name>
+    <capital>Mariehamn</capital>
+    <region>Europe</region>
+    <subregion>Northern Europe</subregion>
+    <population>28875</population>
+    <area>1580.0</area>
+    <timezones>
+      <element>UTC+02:00</element>
+    </timezones>
+  </element>
+  <element>
+    <flag>https:\/\/restcountries.eu\/data\/alb.svg</flag>
+    <name>Albania</name>
+    <capital>Tirana</capital>
+    <region>Europe</region>
+    <subregion>Southern Europe</subregion>
+    <population>2886026</population>
+    <area>28748.0</area>
+    <timezones>
+      <element>UTC+01:00</element>
+    </timezones>
+  </element>
+  <element>
+    <flag>https:\/\/restcountries.eu\/data\/dza.svg</flag>
+    <name>Algeria</name>
+    <capital>Algiers</capital>
+    <region>Africa</region>
+    <subregion>Northern Africa</subregion>
+    <population>40400000</population>
+    <area>2381741.0</area>
+    <timezones>
+      <element>UTC+01:00</element>
+    </timezones>
+  </element>
+  <element>
+    <flag>https:\/\/restcountries.eu\/data\/asm.svg</flag>
+    <name>American Samoa</name>
+    <capital>Pago Pago</capital>
+    <region>Oceania</region>
+    <subregion>Polynesia</subregion>
+    <population>57100</population>
+    <area>199.0</area>
+    <timezones>
+      <element>UTC-11:00</element>
+    </timezones>
+  </element>
+  <element>
+    <flag>https:\/\/restcountries.eu\/data\/and.svg</flag>
+    <name>Andorra</name>
+    <capital>Andorra la Vella</capital>
+    <region>Europe</region>
+    <subregion>Southern Europe</subregion>
+    <population>78014</population>
+    <area>468.0</area>
+    <timezones>
+      <element>UTC+01:00</element>
+    </timezones>
+  </element>
+  <element>
+    <flag>https:\/\/restcountries.eu\/data\/ago.svg</flag>
+    <name>Angola</name>
+    <capital>Luanda</capital>
+    <region>Africa</region>
+    <subregion>Middle Africa</subregion>
+    <population>25868000</population>
+    <area>1246700.0</area>
+    <timezones>
+      <element>UTC+01:00</element>
+    </timezones>
+  </element>
+  <element>
+    <flag>https:\/\/restcountries.eu\/data\/aia.svg</flag>
+    <name>Anguilla</name>
+    <capital>The Valley</capital>
+    <region>Americas</region>
+    <subregion>Caribbean</subregion>
+    <population>13452</population>
+    <area>91.0</area>
+    <timezones>
+      <element>UTC-04:00</element>
+    </timezones>
+  </element>
+  <element>
+    <flag>https:\/\/restcountries.eu\/data\/ata.svg</flag>
+    <name>Antarctica</name>
+    <capital></capital>
+    <region>Polar</region>
+    <subregion></subregion>
+    <population>1000</population>
+    <area>1.4E7</area>
+    <timezones>
+      <element>UTC-03:00</element>
+      <element>UTC+03:00</element>
+      <element>UTC+05:00</element>
+      <element>UTC+06:00</element>
+      <element>UTC+07:00</element>
+      <element>UTC+08:00</element>
+      <element>UTC+10:00</element>
+      <element>UTC+12:00</element>
+    </timezones>
+  </element>
+  <element>
+    <flag>https:\/\/restcountries.eu\/data\/atg.svg</flag>
+    <name>Antigua and Barbuda</name>
+    <capital>Saint John&apos;s</capital>
+    <region>Americas</region>
+    <subregion>Caribbean</subregion>
+    <population>86295</population>
+    <area>442.0</area>
+    <timezones>
+      <element>UTC-04:00</element>
+    </timezones>
+  </element>
+  <element>
+    <flag>https:\/\/restcountries.eu\/data\/arg.svg</flag>
+    <name>Argentina</name>
+    <capital>Buenos Aires</capital>
+    <region>Americas</region>
+    <subregion>South America</subregion>
+    <population>43590400</population>
+    <area>2780400.0</area>
+    <timezones>
+      <element>UTC-03:00</element>
+    </timezones>
+  </element>
+  <element>
+    <flag>https:\/\/restcountries.eu\/data\/arm.svg</flag>
+    <name>Armenia</name>
+    <capital>Yerevan</capital>
+    <region>Asia</region>
+    <subregion>Western Asia</subregion>
+    <population>2994400</population>
+    <area>29743.0</area>
+    <timezones>
+      <element>UTC+04:00</element>
+    </timezones>
+  </element>
+  <element>
+    <flag>https:\/\/restcountries.eu\/data\/abw.svg</flag>
+    <name>Aruba</name>
+    <capital>Oranjestad</capital>
+    <region>Americas</region>
+    <subregion>Caribbean</subregion>
+    <population>107394</population>
+    <area>180.0</area>
+    <timezones>
+      <element>UTC-04:00</element>
+    </timezones>
+  </element>
+  <element>
+    <flag>https:\/\/restcountries.eu\/data\/aus.svg</flag>
+    <name>Australia</name>
+    <capital>Canberra</capital>
+    <region>Oceania</region>
+    <subregion>Australia and New Zealand</subregion>
+    <population>24117360</population>
+    <area>7692024.0</area>
+    <timezones>
+      <element>UTC+05:00</element>
+      <element>UTC+06:30</element>
+      <element>UTC+07:00</element>
+      <element>UTC+08:00</element>
+      <element>UTC+09:30</element>
+      <element>UTC+10:00</element>
+      <element>UTC+10:30</element>
+      <element>UTC+11:30</element>
+    </timezones>
+  </element>
+  <element>
+    <flag>https:\/\/restcountries.eu\/data\/aut.svg</flag>
+    <name>Austria</name>
+    <capital>Vienna</capital>
+    <region>Europe</region>
+    <subregion>Western Europe</subregion>
+    <population>8725931</population>
+    <area>83871.0</area>
+    <timezones>
+      <element>UTC+01:00</element>
+    </timezones>
+  </element>
+  <element>
+    <flag>https:\/\/restcountries.eu\/data\/aze.svg</flag>
+    <name>Azerbaijan</name>
+    <capital>Baku</capital>
+    <region>Asia</region>
+    <subregion>Western Asia</subregion>
+    <population>9730500</population>
+    <area>86600.0</area>
+    <timezones>
+      <element>UTC+04:00</element>
+    </timezones>
+  </element>
+  <element>
+    <flag>https:\/\/restcountries.eu\/data\/bhs.svg</flag>
+    <name>Bahamas</name>
+    <capital>Nassau</capital>
+    <region>Americas</region>
+    <subregion>Caribbean</subregion>
+    <population>378040</population>
+    <area>13943.0</area>
+    <timezones>
+      <element>UTC-05:00</element>
+    </timezones>
+  </element>
+  <element>
+    <flag>https:\/\/restcountries.eu\/data\/bhr.svg</flag>
+    <name>Bahrain</name>
+    <capital>Manama</capital>
+    <region>Asia</region>
+    <subregion>Western Asia</subregion>
+    <population>1404900</population>
+    <area>765.0</area>
+    <timezones>
+      <element>UTC+03:00</element>
+    </timezones>
+  </element>
+  <element>
+    <flag>https:\/\/restcountries.eu\/data\/bgd.svg</flag>
+    <name>Bangladesh</name>
+    <capital>Dhaka</capital>
+    <region>Asia</region>
+    <subregion>Southern Asia</subregion>
+    <population>161006790</population>
+    <area>147570.0</area>
+    <timezones>
+      <element>UTC+06:00</element>
+    </timezones>
+  </element>
+  <element>
+    <flag>https:\/\/restcountries.eu\/data\/brb.svg</flag>
+    <name>Barbados</name>
+    <capital>Bridgetown</capital>
+    <region>Americas</region>
+    <subregion>Caribbean</subregion>
+    <population>285000</population>
+    <area>430.0</area>
+    <timezones>
+      <element>UTC-04:00</element>
+    </timezones>
+  </element>
+  <element>
+    <flag>https:\/\/restcountries.eu\/data\/blr.svg</flag>
+    <name>Belarus</name>
+    <capital>Minsk</capital>
+    <region>Europe</region>
+    <subregion>Eastern Europe</subregion>
+    <population>9498700</population>
+    <area>207600.0</area>
+    <timezones>
+      <element>UTC+03:00</element>
+    </timezones>
+  </element>
+  <element>
+    <flag>https:\/\/restcountries.eu\/data\/bel.svg</flag>
+    <name>Belgium</name>
+    <capital>Brussels</capital>
+    <region>Europe</region>
+    <subregion>Western Europe</subregion>
+    <population>11319511</population>
+    <area>30528.0</area>
+    <timezones>
+      <element>UTC+01:00</element>
+    </timezones>
+  </element>
+  <element>
+    <flag>https:\/\/restcountries.eu\/data\/blz.svg</flag>
+    <name>Belize</name>
+    <capital>Belmopan</capital>
+    <region>Americas</region>
+    <subregion>Central America</subregion>
+    <population>370300</population>
+    <area>22966.0</area>
+    <timezones>
+      <element>UTC-06:00</element>
+    </timezones>
+  </element>
+  <element>
+    <flag>https:\/\/restcountries.eu\/data\/ben.svg</flag>
+    <name>Benin</name>
+    <capital>Porto-Novo</capital>
+    <region>Africa</region>
+    <subregion>Western Africa</subregion>
+    <population>10653654</population>
+    <area>112622.0</area>
+    <timezones>
+      <element>UTC+01:00</element>
+    </timezones>
+  </element>
+  <element>
+    <flag>https:\/\/restcountries.eu\/data\/bmu.svg</flag>
+    <name>Bermuda</name>
+    <capital>Hamilton</capital>
+    <region>Americas</region>
+    <subregion>Northern America</subregion>
+    <population>61954</population>
+    <area>54.0</area>
+    <timezones>
+      <element>UTC-04:00</element>
+    </timezones>
+  </element>
+  <element>
+    <flag>https:\/\/restcountries.eu\/data\/btn.svg</flag>
+    <name>Bhutan</name>
+    <capital>Thimphu</capital>
+    <region>Asia</region>
+    <subregion>Southern Asia</subregion>
+    <population>775620</population>
+    <area>38394.0</area>
+    <timezones>
+      <element>UTC+06:00</element>
+    </timezones>
+  </element>
+  <element>
+    <flag>https:\/\/restcountries.eu\/data\/bol.svg</flag>
+    <name>Bolivia (Plurinational State of)</name>
+    <capital>Sucre</capital>
+    <region>Americas</region>
+    <subregion>South America</subregion>
+    <population>10985059</population>
+    <area>1098581.0</area>
+    <timezones>
+      <element>UTC-04:00</element>
+    </timezones>
+  </element>
+  <element>
+    <flag>https:\/\/restcountries.eu\/data\/bes.svg</flag>
+    <name>Bonaire, Sint Eustatius and Saba</name>
+    <capital>Kralendijk</capital>
+    <region>Americas</region>
+    <subregion>Caribbean</subregion>
+    <population>17408</population>
+    <area>294.0</area>
+    <timezones>
+      <element>UTC-04:00</element>
+    </timezones>
+  </element>
+  <element>
+    <flag>https:\/\/restcountries.eu\/data\/bih.svg</flag>
+    <name>Bosnia and Herzegovina</name>
+    <capital>Sarajevo</capital>
+    <region>Europe</region>
+    <subregion>Southern Europe</subregion>
+    <population>3531159</population>
+    <area>51209.0</area>
+    <timezones>
+      <element>UTC+01:00</element>
+    </timezones>
+  </element>
+  <element>
+    <flag>https:\/\/restcountries.eu\/data\/bwa.svg</flag>
+    <name>Botswana</name>
+    <capital>Gaborone</capital>
+    <region>Africa</region>
+    <subregion>Southern Africa</subregion>
+    <population>2141206</population>
+    <area>582000.0</area>
+    <timezones>
+      <element>UTC+02:00</element>
+    </timezones>
+  </element>
+  <element>
+    <flag>https:\/\/restcountries.eu\/data\/bvt.svg</flag>
+    <name>Bouvet Island</name>
+    <capital></capital>
+    <region></region>
+    <subregion></subregion>
+    <population>0</population>
+    <area>49.0</area>
+    <timezones>
+      <element>UTC+01:00</element>
+    </timezones>
+  </element>
+  <element>
+    <flag>https:\/\/restcountries.eu\/data\/bra.svg</flag>
+    <name>Brazil</name>
+    <capital>Brasília</capital>
+    <region>Americas</region>
+    <subregion>South America</subregion>
+    <population>206135893</population>
+    <area>8515767.0</area>
+    <timezones>
+      <element>UTC-05:00</element>
+      <element>UTC-04:00</element>
+      <element>UTC-03:00</element>
+      <element>UTC-02:00</element>
+    </timezones>
+  </element>
+  <element>
+    <flag>https:\/\/restcountries.eu\/data\/iot.svg</flag>
+    <name>British Indian Ocean Territory</name>
+    <capital>Diego Garcia</capital>
+    <region>Africa</region>
+    <subregion>Eastern Africa</subregion>
+    <population>3000</population>
+    <area>60.0</area>
+    <timezones>
+      <element>UTC+06:00</element>
+    </timezones>
+  </element>
+  <element>
+    <flag>https:\/\/restcountries.eu\/data\/umi.svg</flag>
+    <name>United States Minor Outlying Islands</name>
+    <capital></capital>
+    <region>Americas</region>
+    <subregion>Northern America</subregion>
+    <population>300</population>
+    <timezones>
+      <element>UTC-11:00</element>
+      <element>UTC-10:00</element>
+      <element>UTC+12:00</element>
+    </timezones>
+  </element>
+  <element>
+    <flag>https:\/\/restcountries.eu\/data\/vgb.svg</flag>
+    <name>Virgin Islands (British)</name>
+    <capital>Road Town</capital>
+    <region>Americas</region>
+    <subregion>Caribbean</subregion>
+    <population>28514</population>
+    <area>151.0</area>
+    <timezones>
+      <element>UTC-04:00</element>
+    </timezones>
+  </element>
+  <element>
+    <flag>https:\/\/restcountries.eu\/data\/vir.svg</flag>
+    <name>Virgin Islands (U.S.)</name>
+    <capital>Charlotte Amalie</capital>
+    <region>Americas</region>
+    <subregion>Caribbean</subregion>
+    <population>114743</population>
+    <area>346.36</area>
+    <timezones>
+      <element>UTC-04:00</element>
+    </timezones>
+  </element>
+  <element>
+    <flag>https:\/\/restcountries.eu\/data\/brn.svg</flag>
+    <name>Brunei Darussalam</name>
+    <capital>Bandar Seri Begawan</capital>
+    <region>Asia</region>
+    <subregion>South-Eastern Asia</subregion>
+    <population>411900</population>
+    <area>5765.0</area>
+    <timezones>
+      <element>UTC+08:00</element>
+    </timezones>
+  </element>
+  <element>
+    <flag>https:\/\/restcountries.eu\/data\/bgr.svg</flag>
+    <name>Bulgaria</name>
+    <capital>Sofia</capital>
+    <region>Europe</region>
+    <subregion>Eastern Europe</subregion>
+    <population>7153784</population>
+    <area>110879.0</area>
+    <timezones>
+      <element>UTC+02:00</element>
+    </timezones>
+  </element>
+  <element>
+    <flag>https:\/\/restcountries.eu\/data\/bfa.svg</flag>
+    <name>Burkina Faso</name>
+    <capital>Ouagadougou</capital>
+    <region>Africa</region>
+    <subregion>Western Africa</subregion>
+    <population>19034397</population>
+    <area>272967.0</area>
+    <timezones>
+      <element>UTC</element>
+    </timezones>
+  </element>
+  <element>
+    <flag>https:\/\/restcountries.eu\/data\/bdi.svg</flag>
+    <name>Burundi</name>
+    <capital>Bujumbura</capital>
+    <region>Africa</region>
+    <subregion>Eastern Africa</subregion>
+    <population>10114505</population>
+    <area>27834.0</area>
+    <timezones>
+      <element>UTC+02:00</element>
+    </timezones>
+  </element>
+  <element>
+    <flag>https:\/\/restcountries.eu\/data\/khm.svg</flag>
+    <name>Cambodia</name>
+    <capital>Phnom Penh</capital>
+    <region>Asia</region>
+    <subregion>South-Eastern Asia</subregion>
+    <population>15626444</population>
+    <area>181035.0</area>
+    <timezones>
+      <element>UTC+07:00</element>
+    </timezones>
+  </element>
+  <element>
+    <flag>https:\/\/restcountries.eu\/data\/cmr.svg</flag>
+    <name>Cameroon</name>
+    <capital>Yaoundé</capital>
+    <region>Africa</region>
+    <subregion>Middle Africa</subregion>
+    <population>22709892</population>
+    <area>475442.0</area>
+    <timezones>
+      <element>UTC+01:00</element>
+    </timezones>
+  </element>
+  <element>
+    <flag>https:\/\/restcountries.eu\/data\/can.svg</flag>
+    <name>Canada</name>
+    <capital>Ottawa</capital>
+    <region>Americas</region>
+    <subregion>Northern America</subregion>
+    <population>36155487</population>
+    <area>9984670.0</area>
+    <timezones>
+      <element>UTC-08:00</element>
+      <element>UTC-07:00</element>
+      <element>UTC-06:00</element>
+      <element>UTC-05:00</element>
+      <element>UTC-04:00</element>
+      <element>UTC-03:30</element>
+    </timezones>
+  </element>
+  <element>
+    <flag>https:\/\/restcountries.eu\/data\/cpv.svg</flag>
+    <name>Cabo Verde</name>
+    <capital>Praia</capital>
+    <region>Africa</region>
+    <subregion>Western Africa</subregion>
+    <population>531239</population>
+    <area>4033.0</area>
+    <timezones>
+      <element>UTC-01:00</element>
+    </timezones>
+  </element>
+  <element>
+    <flag>https:\/\/restcountries.eu\/data\/cym.svg</flag>
+    <name>Cayman Islands</name>
+    <capital>George Town</capital>
+    <region>Americas</region>
+    <subregion>Caribbean</subregion>
+    <population>58238</population>
+    <area>264.0</area>
+    <timezones>
+      <element>UTC-05:00</element>
+    </timezones>
+  </element>
+  <element>
+    <flag>https:\/\/restcountries.eu\/data\/caf.svg</flag>
+    <name>Central African Republic</name>
+    <capital>Bangui</capital>
+    <region>Africa</region>
+    <subregion>Middle Africa</subregion>
+    <population>4998000</population>
+    <area>622984.0</area>
+    <timezones>
+      <element>UTC+01:00</element>
+    </timezones>
+  </element>
+  <element>
+    <flag>https:\/\/restcountries.eu\/data\/tcd.svg</flag>
+    <name>Chad</name>
+    <capital>N&apos;Djamena</capital>
+    <region>Africa</region>
+    <subregion>Middle Africa</subregion>
+    <population>14497000</population>
+    <area>1284000.0</area>
+    <timezones>
+      <element>UTC+01:00</element>
+    </timezones>
+  </element>
+  <element>
+    <flag>https:\/\/restcountries.eu\/data\/chl.svg</flag>
+    <name>Chile</name>
+    <capital>Santiago</capital>
+    <region>Americas</region>
+    <subregion>South America</subregion>
+    <population>18191900</population>
+    <area>756102.0</area>
+    <timezones>
+      <element>UTC-06:00</element>
+      <element>UTC-04:00</element>
+    </timezones>
+  </element>
+  <element>
+    <flag>https:\/\/restcountries.eu\/data\/chn.svg</flag>
+    <name>China</name>
+    <capital>Beijing</capital>
+    <region>Asia</region>
+    <subregion>Eastern Asia</subregion>
+    <population>1377422166</population>
+    <area>9640011.0</area>
+    <timezones>
+      <element>UTC+08:00</element>
+    </timezones>
+  </element>
+  <element>
+    <flag>https:\/\/restcountries.eu\/data\/cxr.svg</flag>
+    <name>Christmas Island</name>
+    <capital>Flying Fish Cove</capital>
+    <region>Oceania</region>
+    <subregion>Australia and New Zealand</subregion>
+    <population>2072</population>
+    <area>135.0</area>
+    <timezones>
+      <element>UTC+07:00</element>
+    </timezones>
+  </element>
+  <element>
+    <flag>https:\/\/restcountries.eu\/data\/cck.svg</flag>
+    <name>Cocos (Keeling) Islands</name>
+    <capital>West Island</capital>
+    <region>Oceania</region>
+    <subregion>Australia and New Zealand</subregion>
+    <population>550</population>
+    <area>14.0</area>
+    <timezones>
+      <element>UTC+06:30</element>
+    </timezones>
+  </element>
+  <element>
+    <flag>https:\/\/restcountries.eu\/data\/col.svg</flag>
+    <name>Colombia</name>
+    <capital>Bogotá</capital>
+    <region>Americas</region>
+    <subregion>South America</subregion>
+    <population>48759958</population>
+    <area>1141748.0</area>
+    <timezones>
+      <element>UTC-05:00</element>
+    </timezones>
+  </element>
+  <element>
+    <flag>https:\/\/restcountries.eu\/data\/com.svg</flag>
+    <name>Comoros</name>
+    <capital>Moroni</capital>
+    <region>Africa</region>
+    <subregion>Eastern Africa</subregion>
+    <population>806153</population>
+    <area>1862.0</area>
+    <timezones>
+      <element>UTC+03:00</element>
+    </timezones>
+  </element>
+  <element>
+    <flag>https:\/\/restcountries.eu\/data\/cog.svg</flag>
+    <name>Congo</name>
+    <capital>Brazzaville</capital>
+    <region>Africa</region>
+    <subregion>Middle Africa</subregion>
+    <population>4741000</population>
+    <area>342000.0</area>
+    <timezones>
+      <element>UTC+01:00</element>
+    </timezones>
+  </element>
+  <element>
+    <flag>https:\/\/restcountries.eu\/data\/cod.svg</flag>
+    <name>Congo (Democratic Republic of the)</name>
+    <capital>Kinshasa</capital>
+    <region>Africa</region>
+    <subregion>Middle Africa</subregion>
+    <population>85026000</population>
+    <area>2344858.0</area>
+    <timezones>
+      <element>UTC+01:00</element>
+      <element>UTC+02:00</element>
+    </timezones>
+  </element>
+  <element>
+    <flag>https:\/\/restcountries.eu\/data\/cok.svg</flag>
+    <name>Cook Islands</name>
+    <capital>Avarua</capital>
+    <region>Oceania</region>
+    <subregion>Polynesia</subregion>
+    <population>18100</population>
+    <area>236.0</area>
+    <timezones>
+      <element>UTC-10:00</element>
+    </timezones>
+  </element>
+  <element>
+    <flag>https:\/\/restcountries.eu\/data\/cri.svg</flag>
+    <name>Costa Rica</name>
+    <capital>San José</capital>
+    <region>Americas</region>
+    <subregion>Central America</subregion>
+    <population>4890379</population>
+    <area>51100.0</area>
+    <timezones>
+      <element>UTC-06:00</element>
+    </timezones>
+  </element>
+  <element>
+    <flag>https:\/\/restcountries.eu\/data\/hrv.svg</flag>
+    <name>Croatia</name>
+    <capital>Zagreb</capital>
+    <region>Europe</region>
+    <subregion>Southern Europe</subregion>
+    <population>4190669</population>
+    <area>56594.0</area>
+    <timezones>
+      <element>UTC+01:00</element>
+    </timezones>
+  </element>
+  <element>
+    <flag>https:\/\/restcountries.eu\/data\/cub.svg</flag>
+    <name>Cuba</name>
+    <capital>Havana</capital>
+    <region>Americas</region>
+    <subregion>Caribbean</subregion>
+    <population>11239004</population>
+    <area>109884.0</area>
+    <timezones>
+      <element>UTC-05:00</element>
+    </timezones>
+  </element>
+  <element>
+    <flag>https:\/\/restcountries.eu\/data\/cuw.svg</flag>
+    <name>Curaçao</name>
+    <capital>Willemstad</capital>
+    <region>Americas</region>
+    <subregion>Caribbean</subregion>
+    <population>154843</population>
+    <area>444.0</area>
+    <timezones>
+      <element>UTC-04:00</element>
+    </timezones>
+  </element>
+  <element>
+    <flag>https:\/\/restcountries.eu\/data\/cyp.svg</flag>
+    <name>Cyprus</name>
+    <capital>Nicosia</capital>
+    <region>Europe</region>
+    <subregion>Southern Europe</subregion>
+    <population>847000</population>
+    <area>9251.0</area>
+    <timezones>
+      <element>UTC+02:00</element>
+    </timezones>
+  </element>
+  <element>
+    <flag>https:\/\/restcountries.eu\/data\/cze.svg</flag>
+    <name>Czech Republic</name>
+    <capital>Prague</capital>
+    <region>Europe</region>
+    <subregion>Eastern Europe</subregion>
+    <population>10558524</population>
+    <area>78865.0</area>
+    <timezones>
+      <element>UTC+01:00</element>
+    </timezones>
+  </element>
+  <element>
+    <flag>https:\/\/restcountries.eu\/data\/dnk.svg</flag>
+    <name>Denmark</name>
+    <capital>Copenhagen</capital>
+    <region>Europe</region>
+    <subregion>Northern Europe</subregion>
+    <population>5717014</population>
+    <area>43094.0</area>
+    <timezones>
+      <element>UTC-04:00</element>
+      <element>UTC-03:00</element>
+      <element>UTC-01:00</element>
+      <element>UTC</element>
+      <element>UTC+01:00</element>
+    </timezones>
+  </element>
+  <element>
+    <flag>https:\/\/restcountries.eu\/data\/dji.svg</flag>
+    <name>Djibouti</name>
+    <capital>Djibouti</capital>
+    <region>Africa</region>
+    <subregion>Eastern Africa</subregion>
+    <population>900000</population>
+    <area>23200.0</area>
+    <timezones>
+      <element>UTC+03:00</element>
+    </timezones>
+  </element>
+  <element>
+    <flag>https:\/\/restcountries.eu\/data\/dma.svg</flag>
+    <name>Dominica</name>
+    <capital>Roseau</capital>
+    <region>Americas</region>
+    <subregion>Caribbean</subregion>
+    <population>71293</population>
+    <area>751.0</area>
+    <timezones>
+      <element>UTC-04:00</element>
+    </timezones>
+  </element>
+  <element>
+    <flag>https:\/\/restcountries.eu\/data\/dom.svg</flag>
+    <name>Dominican Republic</name>
+    <capital>Santo Domingo</capital>
+    <region>Americas</region>
+    <subregion>Caribbean</subregion>
+    <population>10075045</population>
+    <area>48671.0</area>
+    <timezones>
+      <element>UTC-04:00</element>
+    </timezones>
+  </element>
+  <element>
+    <flag>https:\/\/restcountries.eu\/data\/ecu.svg</flag>
+    <name>Ecuador</name>
+    <capital>Quito</capital>
+    <region>Americas</region>
+    <subregion>South America</subregion>
+    <population>16545799</population>
+    <area>276841.0</area>
+    <timezones>
+      <element>UTC-06:00</element>
+      <element>UTC-05:00</element>
+    </timezones>
+  </element>
+  <element>
+    <flag>https:\/\/restcountries.eu\/data\/egy.svg</flag>
+    <name>Egypt</name>
+    <capital>Cairo</capital>
+    <region>Africa</region>
+    <subregion>Northern Africa</subregion>
+    <population>91290000</population>
+    <area>1002450.0</area>
+    <timezones>
+      <element>UTC+02:00</element>
+    </timezones>
+  </element>
+  <element>
+    <flag>https:\/\/restcountries.eu\/data\/slv.svg</flag>
+    <name>El Salvador</name>
+    <capital>San Salvador</capital>
+    <region>Americas</region>
+    <subregion>Central America</subregion>
+    <population>6520675</population>
+    <area>21041.0</area>
+    <timezones>
+      <element>UTC-06:00</element>
+    </timezones>
+  </element>
+  <element>
+    <flag>https:\/\/restcountries.eu\/data\/gnq.svg</flag>
+    <name>Equatorial Guinea</name>
+    <capital>Malabo</capital>
+    <region>Africa</region>
+    <subregion>Middle Africa</subregion>
+    <population>1222442</population>
+    <area>28051.0</area>
+    <timezones>
+      <element>UTC+01:00</element>
+    </timezones>
+  </element>
+  <element>
+    <flag>https:\/\/restcountries.eu\/data\/eri.svg</flag>
+    <name>Eritrea</name>
+    <capital>Asmara</capital>
+    <region>Africa</region>
+    <subregion>Eastern Africa</subregion>
+    <population>5352000</population>
+    <area>117600.0</area>
+    <timezones>
+      <element>UTC+03:00</element>
+    </timezones>
+  </element>
+  <element>
+    <flag>https:\/\/restcountries.eu\/data\/est.svg</flag>
+    <name>Estonia</name>
+    <capital>Tallinn</capital>
+    <region>Europe</region>
+    <subregion>Northern Europe</subregion>
+    <population>1315944</population>
+    <area>45227.0</area>
+    <timezones>
+      <element>UTC+02:00</element>
+    </timezones>
+  </element>
+  <element>
+    <flag>https:\/\/restcountries.eu\/data\/eth.svg</flag>
+    <name>Ethiopia</name>
+    <capital>Addis Ababa</capital>
+    <region>Africa</region>
+    <subregion>Eastern Africa</subregion>
+    <population>92206005</population>
+    <area>1104300.0</area>
+    <timezones>
+      <element>UTC+03:00</element>
+    </timezones>
+  </element>
+  <element>
+    <flag>https:\/\/restcountries.eu\/data\/flk.svg</flag>
+    <name>Falkland Islands (Malvinas)</name>
+    <capital>Stanley</capital>
+    <region>Americas</region>
+    <subregion>South America</subregion>
+    <population>2563</population>
+    <area>12173.0</area>
+    <timezones>
+      <element>UTC-04:00</element>
+    </timezones>
+  </element>
+  <element>
+    <flag>https:\/\/restcountries.eu\/data\/fro.svg</flag>
+    <name>Faroe Islands</name>
+    <capital>Tórshavn</capital>
+    <region>Europe</region>
+    <subregion>Northern Europe</subregion>
+    <population>49376</population>
+    <area>1393.0</area>
+    <timezones>
+      <element>UTC+00:00</element>
+    </timezones>
+  </element>
+  <element>
+    <flag>https:\/\/restcountries.eu\/data\/fji.svg</flag>
+    <name>Fiji</name>
+    <capital>Suva</capital>
+    <region>Oceania</region>
+    <subregion>Melanesia</subregion>
+    <population>867000</population>
+    <area>18272.0</area>
+    <timezones>
+      <element>UTC+12:00</element>
+    </timezones>
+  </element>
+  <element>
+    <flag>https:\/\/restcountries.eu\/data\/fin.svg</flag>
+    <name>Finland</name>
+    <capital>Helsinki</capital>
+    <region>Europe</region>
+    <subregion>Northern Europe</subregion>
+    <population>5491817</population>
+    <area>338424.0</area>
+    <timezones>
+      <element>UTC+02:00</element>
+    </timezones>
+  </element>
+  <element>
+    <flag>https:\/\/restcountries.eu\/data\/fra.svg</flag>
+    <name>France</name>
+    <capital>Paris</capital>
+    <region>Europe</region>
+    <subregion>Western Europe</subregion>
+    <population>66710000</population>
+    <area>640679.0</area>
+    <timezones>
+      <element>UTC-10:00</element>
+      <element>UTC-09:30</element>
+      <element>UTC-09:00</element>
+      <element>UTC-08:00</element>
+      <element>UTC-04:00</element>
+      <element>UTC-03:00</element>
+      <element>UTC+01:00</element>
+      <element>UTC+03:00</element>
+      <element>UTC+04:00</element>
+      <element>UTC+05:00</element>
+      <element>UTC+11:00</element>
+      <element>UTC+12:00</element>
+    </timezones>
+  </element>
+  <element>
+    <flag>https:\/\/restcountries.eu\/data\/guf.svg</flag>
+    <name>French Guiana</name>
+    <capital>Cayenne</capital>
+    <region>Americas</region>
+    <subregion>South America</subregion>
+    <population>254541</population>
+    <timezones>
+      <element>UTC-03:00</element>
+    </timezones>
+  </element>
+  <element>
+    <flag>https:\/\/restcountries.eu\/data\/pyf.svg</flag>
+    <name>French Polynesia</name>
+    <capital>Papeetē</capital>
+    <region>Oceania</region>
+    <subregion>Polynesia</subregion>
+    <population>271800</population>
+    <area>4167.0</area>
+    <timezones>
+      <element>UTC-10:00</element>
+      <element>UTC-09:30</element>
+      <element>UTC-09:00</element>
+    </timezones>
+  </element>
+  <element>
+    <flag>https:\/\/restcountries.eu\/data\/atf.svg</flag>
+    <name>French Southern Territories</name>
+    <capital>Port-aux-Français</capital>
+    <region>Africa</region>
+    <subregion>Southern Africa</subregion>
+    <population>140</population>
+    <area>7747.0</area>
+    <timezones>
+      <element>UTC+05:00</element>
+    </timezones>
+  </element>
+  <element>
+    <flag>https:\/\/restcountries.eu\/data\/gab.svg</flag>
+    <name>Gabon</name>
+    <capital>Libreville</capital>
+    <region>Africa</region>
+    <subregion>Middle Africa</subregion>
+    <population>1802278</population>
+    <area>267668.0</area>
+    <timezones>
+      <element>UTC+01:00</element>
+    </timezones>
+  </element>
+  <element>
+    <flag>https:\/\/restcountries.eu\/data\/gmb.svg</flag>
+    <name>Gambia</name>
+    <capital>Banjul</capital>
+    <region>Africa</region>
+    <subregion>Western Africa</subregion>
+    <population>1882450</population>
+    <area>11295.0</area>
+    <timezones>
+      <element>UTC+00:00</element>
+    </timezones>
+  </element>
+  <element>
+    <flag>https:\/\/restcountries.eu\/data\/geo.svg</flag>
+    <name>Georgia</name>
+    <capital>Tbilisi</capital>
+    <region>Asia</region>
+    <subregion>Western Asia</subregion>
+    <population>3720400</population>
+    <area>69700.0</area>
+    <timezones>
+      <element>UTC-05:00</element>
+    </timezones>
+  </element>
+  <element>
+    <flag>https:\/\/restcountries.eu\/data\/deu.svg</flag>
+    <name>Germany</name>
+    <capital>Berlin</capital>
+    <region>Europe</region>
+    <subregion>Western Europe</subregion>
+    <population>81770900</population>
+    <area>357114.0</area>
+    <timezones>
+      <element>UTC+01:00</element>
+    </timezones>
+  </element>
+  <element>
+    <flag>https:\/\/restcountries.eu\/data\/gha.svg</flag>
+    <name>Ghana</name>
+    <capital>Accra</capital>
+    <region>Africa</region>
+    <subregion>Western Africa</subregion>
+    <population>27670174</population>
+    <area>238533.0</area>
+    <timezones>
+      <element>UTC</element>
+    </timezones>
+  </element>
+  <element>
+    <flag>https:\/\/restcountries.eu\/data\/gib.svg</flag>
+    <name>Gibraltar</name>
+    <capital>Gibraltar</capital>
+    <region>Europe</region>
+    <subregion>Southern Europe</subregion>
+    <population>33140</population>
+    <area>6.0</area>
+    <timezones>
+      <element>UTC+01:00</element>
+    </timezones>
+  </element>
+  <element>
+    <flag>https:\/\/restcountries.eu\/data\/grc.svg</flag>
+    <name>Greece</name>
+    <capital>Athens</capital>
+    <region>Europe</region>
+    <subregion>Southern Europe</subregion>
+    <population>10858018</population>
+    <area>131990.0</area>
+    <timezones>
+      <element>UTC+02:00</element>
+    </timezones>
+  </element>
+  <element>
+    <flag>https:\/\/restcountries.eu\/data\/grl.svg</flag>
+    <name>Greenland</name>
+    <capital>Nuuk</capital>
+    <region>Americas</region>
+    <subregion>Northern America</subregion>
+    <population>55847</population>
+    <area>2166086.0</area>
+    <timezones>
+      <element>UTC-04:00</element>
+      <element>UTC-03:00</element>
+      <element>UTC-01:00</element>
+      <element>UTC+00:00</element>
+    </timezones>
+  </element>
+  <element>
+    <flag>https:\/\/restcountries.eu\/data\/grd.svg</flag>
+    <name>Grenada</name>
+    <capital>St. George&apos;s</capital>
+    <region>Americas</region>
+    <subregion>Caribbean</subregion>
+    <population>103328</population>
+    <area>344.0</area>
+    <timezones>
+      <element>UTC-04:00</element>
+    </timezones>
+  </element>
+  <element>
+    <flag>https:\/\/restcountries.eu\/data\/glp.svg</flag>
+    <name>Guadeloupe</name>
+    <capital>Basse-Terre</capital>
+    <region>Americas</region>
+    <subregion>Caribbean</subregion>
+    <population>400132</population>
+    <timezones>
+      <element>UTC-04:00</element>
+    </timezones>
+  </element>
+  <element>
+    <flag>https:\/\/restcountries.eu\/data\/gum.svg</flag>
+    <name>Guam</name>
+    <capital>Hagåtña</capital>
+    <region>Oceania</region>
+    <subregion>Micronesia</subregion>
+    <population>184200</population>
+    <area>549.0</area>
+    <timezones>
+      <element>UTC+10:00</element>
+    </timezones>
+  </element>
+  <element>
+    <flag>https:\/\/restcountries.eu\/data\/gtm.svg</flag>
+    <name>Guatemala</name>
+    <capital>Guatemala City</capital>
+    <region>Americas</region>
+    <subregion>Central America</subregion>
+    <population>16176133</population>
+    <area>108889.0</area>
+    <timezones>
+      <element>UTC-06:00</element>
+    </timezones>
+  </element>
+  <element>
+    <flag>https:\/\/restcountries.eu\/data\/ggy.svg</flag>
+    <name>Guernsey</name>
+    <capital>St. Peter Port</capital>
+    <region>Europe</region>
+    <subregion>Northern Europe</subregion>
+    <population>62999</population>
+    <area>78.0</area>
+    <timezones>
+      <element>UTC+00:00</element>
+    </timezones>
+  </element>
+  <element>
+    <flag>https:\/\/restcountries.eu\/data\/gin.svg</flag>
+    <name>Guinea</name>
+    <capital>Conakry</capital>
+    <region>Africa</region>
+    <subregion>Western Africa</subregion>
+    <population>12947000</population>
+    <area>245857.0</area>
+    <timezones>
+      <element>UTC</element>
+    </timezones>
+  </element>
+  <element>
+    <flag>https:\/\/restcountries.eu\/data\/gnb.svg</flag>
+    <name>Guinea-Bissau</name>
+    <capital>Bissau</capital>
+    <region>Africa</region>
+    <subregion>Western Africa</subregion>
+    <population>1547777</population>
+    <area>36125.0</area>
+    <timezones>
+      <element>UTC</element>
+    </timezones>
+  </element>
+  <element>
+    <flag>https:\/\/restcountries.eu\/data\/guy.svg</flag>
+    <name>Guyana</name>
+    <capital>Georgetown</capital>
+    <region>Americas</region>
+    <subregion>South America</subregion>
+    <population>746900</population>
+    <area>214969.0</area>
+    <timezones>
+      <element>UTC-04:00</element>
+    </timezones>
+  </element>
+  <element>
+    <flag>https:\/\/restcountries.eu\/data\/hti.svg</flag>
+    <name>Haiti</name>
+    <capital>Port-au-Prince</capital>
+    <region>Americas</region>
+    <subregion>Caribbean</subregion>
+    <population>11078033</population>
+    <area>27750.0</area>
+    <timezones>
+      <element>UTC-05:00</element>
+    </timezones>
+  </element>
+  <element>
+    <flag>https:\/\/restcountries.eu\/data\/hmd.svg</flag>
+    <name>Heard Island and McDonald Islands</name>
+    <capital></capital>
+    <region></region>
+    <subregion></subregion>
+    <population>0</population>
+    <area>412.0</area>
+    <timezones>
+      <element>UTC+05:00</element>
+    </timezones>
+  </element>
+  <element>
+    <flag>https:\/\/restcountries.eu\/data\/vat.svg</flag>
+    <name>Holy See</name>
+    <capital>Rome</capital>
+    <region>Europe</region>
+    <subregion>Southern Europe</subregion>
+    <population>451</population>
+    <area>0.44</area>
+    <timezones>
+      <element>UTC+01:00</element>
+    </timezones>
+  </element>
+  <element>
+    <flag>https:\/\/restcountries.eu\/data\/hnd.svg</flag>
+    <name>Honduras</name>
+    <capital>Tegucigalpa</capital>
+    <region>Americas</region>
+    <subregion>Central America</subregion>
+    <population>8576532</population>
+    <area>112492.0</area>
+    <timezones>
+      <element>UTC-06:00</element>
+    </timezones>
+  </element>
+  <element>
+    <flag>https:\/\/restcountries.eu\/data\/hkg.svg</flag>
+    <name>Hong Kong</name>
+    <capital>City of Victoria</capital>
+    <region>Asia</region>
+    <subregion>Eastern Asia</subregion>
+    <population>7324300</population>
+    <area>1104.0</area>
+    <timezones>
+      <element>UTC+08:00</element>
+    </timezones>
+  </element>
+  <element>
+    <flag>https:\/\/restcountries.eu\/data\/hun.svg</flag>
+    <name>Hungary</name>
+    <capital>Budapest</capital>
+    <region>Europe</region>
+    <subregion>Eastern Europe</subregion>
+    <population>9823000</population>
+    <area>93028.0</area>
+    <timezones>
+      <element>UTC+01:00</element>
+    </timezones>
+  </element>
+  <element>
+    <flag>https:\/\/restcountries.eu\/data\/isl.svg</flag>
+    <name>Iceland</name>
+    <capital>Reykjavík</capital>
+    <region>Europe</region>
+    <subregion>Northern Europe</subregion>
+    <population>334300</population>
+    <area>103000.0</area>
+    <timezones>
+      <element>UTC</element>
+    </timezones>
+  </element>
+  <element>
+    <flag>https:\/\/restcountries.eu\/data\/ind.svg</flag>
+    <name>India</name>
+    <capital>New Delhi</capital>
+    <region>Asia</region>
+    <subregion>Southern Asia</subregion>
+    <population>1295210000</population>
+    <area>3287590.0</area>
+    <timezones>
+      <element>UTC+05:30</element>
+    </timezones>
+  </element>
+  <element>
+    <flag>https:\/\/restcountries.eu\/data\/idn.svg</flag>
+    <name>Indonesia</name>
+    <capital>Jakarta</capital>
+    <region>Asia</region>
+    <subregion>South-Eastern Asia</subregion>
+    <population>258705000</population>
+    <area>1904569.0</area>
+    <timezones>
+      <element>UTC+07:00</element>
+      <element>UTC+08:00</element>
+      <element>UTC+09:00</element>
+    </timezones>
+  </element>
+  <element>
+    <flag>https:\/\/restcountries.eu\/data\/civ.svg</flag>
+    <name>Côte d&apos;Ivoire</name>
+    <capital>Yamoussoukro</capital>
+    <region>Africa</region>
+    <subregion>Western Africa</subregion>
+    <population>22671331</population>
+    <area>322463.0</area>
+    <timezones>
+      <element>UTC</element>
+    </timezones>
+  </element>
+  <element>
+    <flag>https:\/\/restcountries.eu\/data\/irn.svg</flag>
+    <name>Iran (Islamic Republic of)</name>
+    <capital>Tehran</capital>
+    <region>Asia</region>
+    <subregion>Southern Asia</subregion>
+    <population>79369900</population>
+    <area>1648195.0</area>
+    <timezones>
+      <element>UTC+03:30</element>
+    </timezones>
+  </element>
+  <element>
+    <flag>https:\/\/restcountries.eu\/data\/irq.svg</flag>
+    <name>Iraq</name>
+    <capital>Baghdad</capital>
+    <region>Asia</region>
+    <subregion>Western Asia</subregion>
+    <population>37883543</population>
+    <area>438317.0</area>
+    <timezones>
+      <element>UTC+03:00</element>
+    </timezones>
+  </element>
+  <element>
+    <flag>https:\/\/restcountries.eu\/data\/irl.svg</flag>
+    <name>Ireland</name>
+    <capital>Dublin</capital>
+    <region>Europe</region>
+    <subregion>Northern Europe</subregion>
+    <population>6378000</population>
+    <area>70273.0</area>
+    <timezones>
+      <element>UTC</element>
+    </timezones>
+  </element>
+  <element>
+    <flag>https:\/\/restcountries.eu\/data\/imn.svg</flag>
+    <name>Isle of Man</name>
+    <capital>Douglas</capital>
+    <region>Europe</region>
+    <subregion>Northern Europe</subregion>
+    <population>84497</population>
+    <area>572.0</area>
+    <timezones>
+      <element>UTC+00:00</element>
+    </timezones>
+  </element>
+  <element>
+    <flag>https:\/\/restcountries.eu\/data\/isr.svg</flag>
+    <name>Israel</name>
+    <capital>Jerusalem</capital>
+    <region>Asia</region>
+    <subregion>Western Asia</subregion>
+    <population>8527400</population>
+    <area>20770.0</area>
+    <timezones>
+      <element>UTC+02:00</element>
+    </timezones>
+  </element>
+  <element>
+    <flag>https:\/\/restcountries.eu\/data\/ita.svg</flag>
+    <name>Italy</name>
+    <capital>Rome</capital>
+    <region>Europe</region>
+    <subregion>Southern Europe</subregion>
+    <population>60665551</population>
+    <area>301336.0</area>
+    <timezones>
+      <element>UTC+01:00</element>
+    </timezones>
+  </element>
+  <element>
+    <flag>https:\/\/restcountries.eu\/data\/jam.svg</flag>
+    <name>Jamaica</name>
+    <capital>Kingston</capital>
+    <region>Americas</region>
+    <subregion>Caribbean</subregion>
+    <population>2723246</population>
+    <area>10991.0</area>
+    <timezones>
+      <element>UTC-05:00</element>
+    </timezones>
+  </element>
+  <element>
+    <flag>https:\/\/restcountries.eu\/data\/jpn.svg</flag>
+    <name>Japan</name>
+    <capital>Tokyo</capital>
+    <region>Asia</region>
+    <subregion>Eastern Asia</subregion>
+    <population>126960000</population>
+    <area>377930.0</area>
+    <timezones>
+      <element>UTC+09:00</element>
+    </timezones>
+  </element>
+  <element>
+    <flag>https:\/\/restcountries.eu\/data\/jey.svg</flag>
+    <name>Jersey</name>
+    <capital>Saint Helier</capital>
+    <region>Europe</region>
+    <subregion>Northern Europe</subregion>
+    <population>100800</population>
+    <area>116.0</area>
+    <timezones>
+      <element>UTC+01:00</element>
+    </timezones>
+  </element>
+  <element>
+    <flag>https:\/\/restcountries.eu\/data\/jor.svg</flag>
+    <name>Jordan</name>
+    <capital>Amman</capital>
+    <region>Asia</region>
+    <subregion>Western Asia</subregion>
+    <population>9531712</population>
+    <area>89342.0</area>
+    <timezones>
+      <element>UTC+03:00</element>
+    </timezones>
+  </element>
+  <element>
+    <flag>https:\/\/restcountries.eu\/data\/kaz.svg</flag>
+    <name>Kazakhstan</name>
+    <capital>Astana</capital>
+    <region>Asia</region>
+    <subregion>Central Asia</subregion>
+    <population>17753200</population>
+    <area>2724900.0</area>
+    <timezones>
+      <element>UTC+05:00</element>
+      <element>UTC+06:00</element>
+    </timezones>
+  </element>
+  <element>
+    <flag>https:\/\/restcountries.eu\/data\/ken.svg</flag>
+    <name>Kenya</name>
+    <capital>Nairobi</capital>
+    <region>Africa</region>
+    <subregion>Eastern Africa</subregion>
+    <population>47251000</population>
+    <area>580367.0</area>
+    <timezones>
+      <element>UTC+03:00</element>
+    </timezones>
+  </element>
+  <element>
+    <flag>https:\/\/restcountries.eu\/data\/kir.svg</flag>
+    <name>Kiribati</name>
+    <capital>South Tarawa</capital>
+    <region>Oceania</region>
+    <subregion>Micronesia</subregion>
+    <population>113400</population>
+    <area>811.0</area>
+    <timezones>
+      <element>UTC+12:00</element>
+      <element>UTC+13:00</element>
+      <element>UTC+14:00</element>
+    </timezones>
+  </element>
+  <element>
+    <flag>https:\/\/restcountries.eu\/data\/kwt.svg</flag>
+    <name>Kuwait</name>
+    <capital>Kuwait City</capital>
+    <region>Asia</region>
+    <subregion>Western Asia</subregion>
+    <population>4183658</population>
+    <area>17818.0</area>
+    <timezones>
+      <element>UTC+03:00</element>
+    </timezones>
+  </element>
+  <element>
+    <flag>https:\/\/restcountries.eu\/data\/kgz.svg</flag>
+    <name>Kyrgyzstan</name>
+    <capital>Bishkek</capital>
+    <region>Asia</region>
+    <subregion>Central Asia</subregion>
+    <population>6047800</population>
+    <area>199951.0</area>
+    <timezones>
+      <element>UTC+06:00</element>
+    </timezones>
+  </element>
+  <element>
+    <flag>https:\/\/restcountries.eu\/data\/lao.svg</flag>
+    <name>Lao People&apos;s Democratic Republic</name>
+    <capital>Vientiane</capital>
+    <region>Asia</region>
+    <subregion>South-Eastern Asia</subregion>
+    <population>6492400</population>
+    <area>236800.0</area>
+    <timezones>
+      <element>UTC+07:00</element>
+    </timezones>
+  </element>
+  <element>
+    <flag>https:\/\/restcountries.eu\/data\/lva.svg</flag>
+    <name>Latvia</name>
+    <capital>Riga</capital>
+    <region>Europe</region>
+    <subregion>Northern Europe</subregion>
+    <population>1961600</population>
+    <area>64559.0</area>
+    <timezones>
+      <element>UTC+02:00</element>
+    </timezones>
+  </element>
+  <element>
+    <flag>https:\/\/restcountries.eu\/data\/lbn.svg</flag>
+    <name>Lebanon</name>
+    <capital>Beirut</capital>
+    <region>Asia</region>
+    <subregion>Western Asia</subregion>
+    <population>5988000</population>
+    <area>10452.0</area>
+    <timezones>
+      <element>UTC+02:00</element>
+    </timezones>
+  </element>
+  <element>
+    <flag>https:\/\/restcountries.eu\/data\/lso.svg</flag>
+    <name>Lesotho</name>
+    <capital>Maseru</capital>
+    <region>Africa</region>
+    <subregion>Southern Africa</subregion>
+    <population>1894194</population>
+    <area>30355.0</area>
+    <timezones>
+      <element>UTC+02:00</element>
+    </timezones>
+  </element>
+  <element>
+    <flag>https:\/\/restcountries.eu\/data\/lbr.svg</flag>
+    <name>Liberia</name>
+    <capital>Monrovia</capital>
+    <region>Africa</region>
+    <subregion>Western Africa</subregion>
+    <population>4615000</population>
+    <area>111369.0</area>
+    <timezones>
+      <element>UTC</element>
+    </timezones>
+  </element>
+  <element>
+    <flag>https:\/\/restcountries.eu\/data\/lby.svg</flag>
+    <name>Libya</name>
+    <capital>Tripoli</capital>
+    <region>Africa</region>
+    <subregion>Northern Africa</subregion>
+    <population>6385000</population>
+    <area>1759540.0</area>
+    <timezones>
+      <element>UTC+01:00</element>
+    </timezones>
+  </element>
+  <element>
+    <flag>https:\/\/restcountries.eu\/data\/lie.svg</flag>
+    <name>Liechtenstein</name>
+    <capital>Vaduz</capital>
+    <region>Europe</region>
+    <subregion>Western Europe</subregion>
+    <population>37623</population>
+    <area>160.0</area>
+    <timezones>
+      <element>UTC+01:00</element>
+    </timezones>
+  </element>
+  <element>
+    <flag>https:\/\/restcountries.eu\/data\/ltu.svg</flag>
+    <name>Lithuania</name>
+    <capital>Vilnius</capital>
+    <region>Europe</region>
+    <subregion>Northern Europe</subregion>
+    <population>2872294</population>
+    <area>65300.0</area>
+    <timezones>
+      <element>UTC+02:00</element>
+    </timezones>
+  </element>
+  <element>
+    <flag>https:\/\/restcountries.eu\/data\/lux.svg</flag>
+    <name>Luxembourg</name>
+    <capital>Luxembourg</capital>
+    <region>Europe</region>
+    <subregion>Western Europe</subregion>
+    <population>576200</population>
+    <area>2586.0</area>
+    <timezones>
+      <element>UTC+01:00</element>
+    </timezones>
+  </element>
+  <element>
+    <flag>https:\/\/restcountries.eu\/data\/mac.svg</flag>
+    <name>Macao</name>
+    <capital></capital>
+    <region>Asia</region>
+    <subregion>Eastern Asia</subregion>
+    <population>649100</population>
+    <area>30.0</area>
+    <timezones>
+      <element>UTC+08:00</element>
+    </timezones>
+  </element>
+  <element>
+    <flag>https:\/\/restcountries.eu\/data\/mkd.svg</flag>
+    <name>Macedonia (the former Yugoslav Republic of)</name>
+    <capital>Skopje</capital>
+    <region>Europe</region>
+    <subregion>Southern Europe</subregion>
+    <population>2058539</population>
+    <area>25713.0</area>
+    <timezones>
+      <element>UTC+01:00</element>
+    </timezones>
+  </element>
+  <element>
+    <flag>https:\/\/restcountries.eu\/data\/mdg.svg</flag>
+    <name>Madagascar</name>
+    <capital>Antananarivo</capital>
+    <region>Africa</region>
+    <subregion>Eastern Africa</subregion>
+    <population>22434363</population>
+    <area>587041.0</area>
+    <timezones>
+      <element>UTC+03:00</element>
+    </timezones>
+  </element>
+  <element>
+    <flag>https:\/\/restcountries.eu\/data\/mwi.svg</flag>
+    <name>Malawi</name>
+    <capital>Lilongwe</capital>
+    <region>Africa</region>
+    <subregion>Eastern Africa</subregion>
+    <population>16832910</population>
+    <area>118484.0</area>
+    <timezones>
+      <element>UTC+02:00</element>
+    </timezones>
+  </element>
+  <element>
+    <flag>https:\/\/restcountries.eu\/data\/mys.svg</flag>
+    <name>Malaysia</name>
+    <capital>Kuala Lumpur</capital>
+    <region>Asia</region>
+    <subregion>South-Eastern Asia</subregion>
+    <population>31405416</population>
+    <area>330803.0</area>
+    <timezones>
+      <element>UTC+08:00</element>
+    </timezones>
+  </element>
+  <element>
+    <flag>https:\/\/restcountries.eu\/data\/mdv.svg</flag>
+    <name>Maldives</name>
+    <capital>Malé</capital>
+    <region>Asia</region>
+    <subregion>Southern Asia</subregion>
+    <population>344023</population>
+    <area>300.0</area>
+    <timezones>
+      <element>UTC+05:00</element>
+    </timezones>
+  </element>
+  <element>
+    <flag>https:\/\/restcountries.eu\/data\/mli.svg</flag>
+    <name>Mali</name>
+    <capital>Bamako</capital>
+    <region>Africa</region>
+    <subregion>Western Africa</subregion>
+    <population>18135000</population>
+    <area>1240192.0</area>
+    <timezones>
+      <element>UTC</element>
+    </timezones>
+  </element>
+  <element>
+    <flag>https:\/\/restcountries.eu\/data\/mlt.svg</flag>
+    <name>Malta</name>
+    <capital>Valletta</capital>
+    <region>Europe</region>
+    <subregion>Southern Europe</subregion>
+    <population>425384</population>
+    <area>316.0</area>
+    <timezones>
+      <element>UTC+01:00</element>
+    </timezones>
+  </element>
+  <element>
+    <flag>https:\/\/restcountries.eu\/data\/mhl.svg</flag>
+    <name>Marshall Islands</name>
+    <capital>Majuro</capital>
+    <region>Oceania</region>
+    <subregion>Micronesia</subregion>
+    <population>54880</population>
+    <area>181.0</area>
+    <timezones>
+      <element>UTC+12:00</element>
+    </timezones>
+  </element>
+  <element>
+    <flag>https:\/\/restcountries.eu\/data\/mtq.svg</flag>
+    <name>Martinique</name>
+    <capital>Fort-de-France</capital>
+    <region>Americas</region>
+    <subregion>Caribbean</subregion>
+    <population>378243</population>
+    <timezones>
+      <element>UTC-04:00</element>
+    </timezones>
+  </element>
+  <element>
+    <flag>https:\/\/restcountries.eu\/data\/mrt.svg</flag>
+    <name>Mauritania</name>
+    <capital>Nouakchott</capital>
+    <region>Africa</region>
+    <subregion>Western Africa</subregion>
+    <population>3718678</population>
+    <area>1030700.0</area>
+    <timezones>
+      <element>UTC</element>
+    </timezones>
+  </element>
+  <element>
+    <flag>https:\/\/restcountries.eu\/data\/mus.svg</flag>
+    <name>Mauritius</name>
+    <capital>Port Louis</capital>
+    <region>Africa</region>
+    <subregion>Eastern Africa</subregion>
+    <population>1262879</population>
+    <area>2040.0</area>
+    <timezones>
+      <element>UTC+04:00</element>
+    </timezones>
+  </element>
+  <element>
+    <flag>https:\/\/restcountries.eu\/data\/myt.svg</flag>
+    <name>Mayotte</name>
+    <capital>Mamoudzou</capital>
+    <region>Africa</region>
+    <subregion>Eastern Africa</subregion>
+    <population>226915</population>
+    <timezones>
+      <element>UTC+03:00</element>
+    </timezones>
+  </element>
+  <element>
+    <flag>https:\/\/restcountries.eu\/data\/mex.svg</flag>
+    <name>Mexico</name>
+    <capital>Mexico City</capital>
+    <region>Americas</region>
+    <subregion>Central America</subregion>
+    <population>122273473</population>
+    <area>1964375.0</area>
+    <timezones>
+      <element>UTC-08:00</element>
+      <element>UTC-07:00</element>
+      <element>UTC-06:00</element>
+    </timezones>
+  </element>
+  <element>
+    <flag>https:\/\/restcountries.eu\/data\/fsm.svg</flag>
+    <name>Micronesia (Federated States of)</name>
+    <capital>Palikir</capital>
+    <region>Oceania</region>
+    <subregion>Micronesia</subregion>
+    <population>102800</population>
+    <area>702.0</area>
+    <timezones>
+      <element>UTC+10:00</element>
+      <element>UTC+11</element>
+    </timezones>
+  </element>
+  <element>
+    <flag>https:\/\/restcountries.eu\/data\/mda.svg</flag>
+    <name>Moldova (Republic of)</name>
+    <capital>Chișinău</capital>
+    <region>Europe</region>
+    <subregion>Eastern Europe</subregion>
+    <population>3553100</population>
+    <area>33846.0</area>
+    <timezones>
+      <element>UTC+02:00</element>
+    </timezones>
+  </element>
+  <element>
+    <flag>https:\/\/restcountries.eu\/data\/mco.svg</flag>
+    <name>Monaco</name>
+    <capital>Monaco</capital>
+    <region>Europe</region>
+    <subregion>Western Europe</subregion>
+    <population>38400</population>
+    <area>2.02</area>
+    <timezones>
+      <element>UTC+01:00</element>
+    </timezones>
+  </element>
+  <element>
+    <flag>https:\/\/restcountries.eu\/data\/mng.svg</flag>
+    <name>Mongolia</name>
+    <capital>Ulan Bator</capital>
+    <region>Asia</region>
+    <subregion>Eastern Asia</subregion>
+    <population>3093100</population>
+    <area>1564110.0</area>
+    <timezones>
+      <element>UTC+07:00</element>
+      <element>UTC+08:00</element>
+    </timezones>
+  </element>
+  <element>
+    <flag>https:\/\/restcountries.eu\/data\/mne.svg</flag>
+    <name>Montenegro</name>
+    <capital>Podgorica</capital>
+    <region>Europe</region>
+    <subregion>Southern Europe</subregion>
+    <population>621810</population>
+    <area>13812.0</area>
+    <timezones>
+      <element>UTC+01:00</element>
+    </timezones>
+  </element>
+  <element>
+    <flag>https:\/\/restcountries.eu\/data\/msr.svg</flag>
+    <name>Montserrat</name>
+    <capital>Plymouth</capital>
+    <region>Americas</region>
+    <subregion>Caribbean</subregion>
+    <population>4922</population>
+    <area>102.0</area>
+    <timezones>
+      <element>UTC-04:00</element>
+    </timezones>
+  </element>
+  <element>
+    <flag>https:\/\/restcountries.eu\/data\/mar.svg</flag>
+    <name>Morocco</name>
+    <capital>Rabat</capital>
+    <region>Africa</region>
+    <subregion>Northern Africa</subregion>
+    <population>33337529</population>
+    <area>446550.0</area>
+    <timezones>
+      <element>UTC</element>
+    </timezones>
+  </element>
+  <element>
+    <flag>https:\/\/restcountries.eu\/data\/moz.svg</flag>
+    <name>Mozambique</name>
+    <capital>Maputo</capital>
+    <region>Africa</region>
+    <subregion>Eastern Africa</subregion>
+    <population>26423700</population>
+    <area>801590.0</area>
+    <timezones>
+      <element>UTC+02:00</element>
+    </timezones>
+  </element>
+  <element>
+    <flag>https:\/\/restcountries.eu\/data\/mmr.svg</flag>
+    <name>Myanmar</name>
+    <capital>Naypyidaw</capital>
+    <region>Asia</region>
+    <subregion>South-Eastern Asia</subregion>
+    <population>51419420</population>
+    <area>676578.0</area>
+    <timezones>
+      <element>UTC+06:30</element>
+    </timezones>
+  </element>
+  <element>
+    <flag>https:\/\/restcountries.eu\/data\/nam.svg</flag>
+    <name>Namibia</name>
+    <capital>Windhoek</capital>
+    <region>Africa</region>
+    <subregion>Southern Africa</subregion>
+    <population>2324388</population>
+    <area>825615.0</area>
+    <timezones>
+      <element>UTC+01:00</element>
+    </timezones>
+  </element>
+  <element>
+    <flag>https:\/\/restcountries.eu\/data\/nru.svg</flag>
+    <name>Nauru</name>
+    <capital>Yaren</capital>
+    <region>Oceania</region>
+    <subregion>Micronesia</subregion>
+    <population>10084</population>
+    <area>21.0</area>
+    <timezones>
+      <element>UTC+12:00</element>
+    </timezones>
+  </element>
+  <element>
+    <flag>https:\/\/restcountries.eu\/data\/npl.svg</flag>
+    <name>Nepal</name>
+    <capital>Kathmandu</capital>
+    <region>Asia</region>
+    <subregion>Southern Asia</subregion>
+    <population>28431500</population>
+    <area>147181.0</area>
+    <timezones>
+      <element>UTC+05:45</element>
+    </timezones>
+  </element>
+  <element>
+    <flag>https:\/\/restcountries.eu\/data\/nld.svg</flag>
+    <name>Netherlands</name>
+    <capital>Amsterdam</capital>
+    <region>Europe</region>
+    <subregion>Western Europe</subregion>
+    <population>17019800</population>
+    <area>41850.0</area>
+    <timezones>
+      <element>UTC-04:00</element>
+      <element>UTC+01:00</element>
+    </timezones>
+  </element>
+  <element>
+    <flag>https:\/\/restcountries.eu\/data\/ncl.svg</flag>
+    <name>New Caledonia</name>
+    <capital>Nouméa</capital>
+    <region>Oceania</region>
+    <subregion>Melanesia</subregion>
+    <population>268767</population>
+    <area>18575.0</area>
+    <timezones>
+      <element>UTC+11:00</element>
+    </timezones>
+  </element>
+  <element>
+    <flag>https:\/\/restcountries.eu\/data\/nzl.svg</flag>
+    <name>New Zealand</name>
+    <capital>Wellington</capital>
+    <region>Oceania</region>
+    <subregion>Australia and New Zealand</subregion>
+    <population>4697854</population>
+    <area>270467.0</area>
+    <timezones>
+      <element>UTC-11:00</element>
+      <element>UTC-10:00</element>
+      <element>UTC+12:00</element>
+      <element>UTC+12:45</element>
+      <element>UTC+13:00</element>
+    </timezones>
+  </element>
+  <element>
+    <flag>https:\/\/restcountries.eu\/data\/nic.svg</flag>
+    <name>Nicaragua</name>
+    <capital>Managua</capital>
+    <region>Americas</region>
+    <subregion>Central America</subregion>
+    <population>6262703</population>
+    <area>130373.0</area>
+    <timezones>
+      <element>UTC-06:00</element>
+    </timezones>
+  </element>
+  <element>
+    <flag>https:\/\/restcountries.eu\/data\/ner.svg</flag>
+    <name>Niger</name>
+    <capital>Niamey</capital>
+    <region>Africa</region>
+    <subregion>Western Africa</subregion>
+    <population>20715000</population>
+    <area>1267000.0</area>
+    <timezones>
+      <element>UTC+01:00</element>
+    </timezones>
+  </element>
+  <element>
+    <flag>https:\/\/restcountries.eu\/data\/nga.svg</flag>
+    <name>Nigeria</name>
+    <capital>Abuja</capital>
+    <region>Africa</region>
+    <subregion>Western Africa</subregion>
+    <population>186988000</population>
+    <area>923768.0</area>
+    <timezones>
+      <element>UTC+01:00</element>
+    </timezones>
+  </element>
+  <element>
+    <flag>https:\/\/restcountries.eu\/data\/niu.svg</flag>
+    <name>Niue</name>
+    <capital>Alofi</capital>
+    <region>Oceania</region>
+    <subregion>Polynesia</subregion>
+    <population>1470</population>
+    <area>260.0</area>
+    <timezones>
+      <element>UTC-11:00</element>
+    </timezones>
+  </element>
+  <element>
+    <flag>https:\/\/restcountries.eu\/data\/nfk.svg</flag>
+    <name>Norfolk Island</name>
+    <capital>Kingston</capital>
+    <region>Oceania</region>
+    <subregion>Australia and New Zealand</subregion>
+    <population>2302</population>
+    <area>36.0</area>
+    <timezones>
+      <element>UTC+11:30</element>
+    </timezones>
+  </element>
+  <element>
+    <flag>https:\/\/restcountries.eu\/data\/prk.svg</flag>
+    <name>Korea (Democratic People&apos;s Republic of)</name>
+    <capital>Pyongyang</capital>
+    <region>Asia</region>
+    <subregion>Eastern Asia</subregion>
+    <population>25281000</population>
+    <area>120538.0</area>
+    <timezones>
+      <element>UTC+09:00</element>
+    </timezones>
+  </element>
+  <element>
+    <flag>https:\/\/restcountries.eu\/data\/mnp.svg</flag>
+    <name>Northern Mariana Islands</name>
+    <capital>Saipan</capital>
+    <region>Oceania</region>
+    <subregion>Micronesia</subregion>
+    <population>56940</population>
+    <area>464.0</area>
+    <timezones>
+      <element>UTC+10:00</element>
+    </timezones>
+  </element>
+  <element>
+    <flag>https:\/\/restcountries.eu\/data\/nor.svg</flag>
+    <name>Norway</name>
+    <capital>Oslo</capital>
+    <region>Europe</region>
+    <subregion>Northern Europe</subregion>
+    <population>5223256</population>
+    <area>323802.0</area>
+    <timezones>
+      <element>UTC+01:00</element>
+    </timezones>
+  </element>
+  <element>
+    <flag>https:\/\/restcountries.eu\/data\/omn.svg</flag>
+    <name>Oman</name>
+    <capital>Muscat</capital>
+    <region>Asia</region>
+    <subregion>Western Asia</subregion>
+    <population>4420133</population>
+    <area>309500.0</area>
+    <timezones>
+      <element>UTC+04:00</element>
+    </timezones>
+  </element>
+  <element>
+    <flag>https:\/\/restcountries.eu\/data\/pak.svg</flag>
+    <name>Pakistan</name>
+    <capital>Islamabad</capital>
+    <region>Asia</region>
+    <subregion>Southern Asia</subregion>
+    <population>194125062</population>
+    <area>881912.0</area>
+    <timezones>
+      <element>UTC+05:00</element>
+    </timezones>
+  </element>
+  <element>
+    <flag>https:\/\/restcountries.eu\/data\/plw.svg</flag>
+    <name>Palau</name>
+    <capital>Ngerulmud</capital>
+    <region>Oceania</region>
+    <subregion>Micronesia</subregion>
+    <population>17950</population>
+    <area>459.0</area>
+    <timezones>
+      <element>UTC+09:00</element>
+    </timezones>
+  </element>
+  <element>
+    <flag>https:\/\/restcountries.eu\/data\/pse.svg</flag>
+    <name>Palestine, State of</name>
+    <capital>Ramallah</capital>
+    <region>Asia</region>
+    <subregion>Western Asia</subregion>
+    <population>4682467</population>
+    <timezones>
+      <element>UTC+02:00</element>
+    </timezones>
+  </element>
+  <element>
+    <flag>https:\/\/restcountries.eu\/data\/pan.svg</flag>
+    <name>Panama</name>
+    <capital>Panama City</capital>
+    <region>Americas</region>
+    <subregion>Central America</subregion>
+    <population>3814672</population>
+    <area>75417.0</area>
+    <timezones>
+      <element>UTC-05:00</element>
+    </timezones>
+  </element>
+  <element>
+    <flag>https:\/\/restcountries.eu\/data\/png.svg</flag>
+    <name>Papua New Guinea</name>
+    <capital>Port Moresby</capital>
+    <region>Oceania</region>
+    <subregion>Melanesia</subregion>
+    <population>8083700</population>
+    <area>462840.0</area>
+    <timezones>
+      <element>UTC+10:00</element>
+    </timezones>
+  </element>
+  <element>
+    <flag>https:\/\/restcountries.eu\/data\/pry.svg</flag>
+    <name>Paraguay</name>
+    <capital>Asunción</capital>
+    <region>Americas</region>
+    <subregion>South America</subregion>
+    <population>6854536</population>
+    <area>406752.0</area>
+    <timezones>
+      <element>UTC-04:00</element>
+    </timezones>
+  </element>
+  <element>
+    <flag>https:\/\/restcountries.eu\/data\/per.svg</flag>
+    <name>Peru</name>
+    <capital>Lima</capital>
+    <region>Americas</region>
+    <subregion>South America</subregion>
+    <population>31488700</population>
+    <area>1285216.0</area>
+    <timezones>
+      <element>UTC-05:00</element>
+    </timezones>
+  </element>
+  <element>
+    <flag>https:\/\/restcountries.eu\/data\/phl.svg</flag>
+    <name>Philippines</name>
+    <capital>Manila</capital>
+    <region>Asia</region>
+    <subregion>South-Eastern Asia</subregion>
+    <population>103279800</population>
+    <area>342353.0</area>
+    <timezones>
+      <element>UTC+08:00</element>
+    </timezones>
+  </element>
+  <element>
+    <flag>https:\/\/restcountries.eu\/data\/pcn.svg</flag>
+    <name>Pitcairn</name>
+    <capital>Adamstown</capital>
+    <region>Oceania</region>
+    <subregion>Polynesia</subregion>
+    <population>56</population>
+    <area>47.0</area>
+    <timezones>
+      <element>UTC-08:00</element>
+    </timezones>
+  </element>
+  <element>
+    <flag>https:\/\/restcountries.eu\/data\/pol.svg</flag>
+    <name>Poland</name>
+    <capital>Warsaw</capital>
+    <region>Europe</region>
+    <subregion>Eastern Europe</subregion>
+    <population>38437239</population>
+    <area>312679.0</area>
+    <timezones>
+      <element>UTC+01:00</element>
+    </timezones>
+  </element>
+  <element>
+    <flag>https:\/\/restcountries.eu\/data\/prt.svg</flag>
+    <name>Portugal</name>
+    <capital>Lisbon</capital>
+    <region>Europe</region>
+    <subregion>Southern Europe</subregion>
+    <population>10374822</population>
+    <area>92090.0</area>
+    <timezones>
+      <element>UTC-01:00</element>
+      <element>UTC</element>
+    </timezones>
+  </element>
+  <element>
+    <flag>https:\/\/restcountries.eu\/data\/pri.svg</flag>
+    <name>Puerto Rico</name>
+    <capital>San Juan</capital>
+    <region>Americas</region>
+    <subregion>Caribbean</subregion>
+    <population>3474182</population>
+    <area>8870.0</area>
+    <timezones>
+      <element>UTC-04:00</element>
+    </timezones>
+  </element>
+  <element>
+    <flag>https:\/\/restcountries.eu\/data\/qat.svg</flag>
+    <name>Qatar</name>
+    <capital>Doha</capital>
+    <region>Asia</region>
+    <subregion>Western Asia</subregion>
+    <population>2587564</population>
+    <area>11586.0</area>
+    <timezones>
+      <element>UTC+03:00</element>
+    </timezones>
+  </element>
+  <element>
+    <flag>https:\/\/restcountries.eu\/data\/kos.svg</flag>
+    <name>Republic of Kosovo</name>
+    <capital>Pristina</capital>
+    <region>Europe</region>
+    <subregion>Eastern Europe</subregion>
+    <population>1733842</population>
+    <area>10908.0</area>
+    <timezones>
+      <element>UTC+01:00</element>
+    </timezones>
+  </element>
+  <element>
+    <flag>https:\/\/restcountries.eu\/data\/reu.svg</flag>
+    <name>Réunion</name>
+    <capital>Saint-Denis</capital>
+    <region>Africa</region>
+    <subregion>Eastern Africa</subregion>
+    <population>840974</population>
+    <timezones>
+      <element>UTC+04:00</element>
+    </timezones>
+  </element>
+  <element>
+    <flag>https:\/\/restcountries.eu\/data\/rou.svg</flag>
+    <name>Romania</name>
+    <capital>Bucharest</capital>
+    <region>Europe</region>
+    <subregion>Eastern Europe</subregion>
+    <population>19861408</population>
+    <area>238391.0</area>
+    <timezones>
+      <element>UTC+02:00</element>
+    </timezones>
+  </element>
+  <element>
+    <flag>https:\/\/restcountries.eu\/data\/rus.svg</flag>
+    <name>Russian Federation</name>
+    <capital>Moscow</capital>
+    <region>Europe</region>
+    <subregion>Eastern Europe</subregion>
+    <population>146599183</population>
+    <area>1.7124442E7</area>
+    <timezones>
+      <element>UTC+03:00</element>
+      <element>UTC+04:00</element>
+      <element>UTC+06:00</element>
+      <element>UTC+07:00</element>
+      <element>UTC+08:00</element>
+      <element>UTC+09:00</element>
+      <element>UTC+10:00</element>
+      <element>UTC+11:00</element>
+      <element>UTC+12:00</element>
+    </timezones>
+  </element>
+  <element>
+    <flag>https:\/\/restcountries.eu\/data\/rwa.svg</flag>
+    <name>Rwanda</name>
+    <capital>Kigali</capital>
+    <region>Africa</region>
+    <subregion>Eastern Africa</subregion>
+    <population>11553188</population>
+    <area>26338.0</area>
+    <timezones>
+      <element>UTC+02:00</element>
+    </timezones>
+  </element>
+  <element>
+    <flag>https:\/\/restcountries.eu\/data\/blm.svg</flag>
+    <name>Saint Barthélemy</name>
+    <capital>Gustavia</capital>
+    <region>Americas</region>
+    <subregion>Caribbean</subregion>
+    <population>9417</population>
+    <area>21.0</area>
+    <timezones>
+      <element>UTC-04:00</element>
+    </timezones>
+  </element>
+  <element>
+    <flag>https:\/\/restcountries.eu\/data\/shn.svg</flag>
+    <name>Saint Helena, Ascension and Tristan da Cunha</name>
+    <capital>Jamestown</capital>
+    <region>Africa</region>
+    <subregion>Western Africa</subregion>
+    <population>4255</population>
+    <timezones>
+      <element>UTC+00:00</element>
+    </timezones>
+  </element>
+  <element>
+    <flag>https:\/\/restcountries.eu\/data\/kna.svg</flag>
+    <name>Saint Kitts and Nevis</name>
+    <capital>Basseterre</capital>
+    <region>Americas</region>
+    <subregion>Caribbean</subregion>
+    <population>46204</population>
+    <area>261.0</area>
+    <timezones>
+      <element>UTC-04:00</element>
+    </timezones>
+  </element>
+  <element>
+    <flag>https:\/\/restcountries.eu\/data\/lca.svg</flag>
+    <name>Saint Lucia</name>
+    <capital>Castries</capital>
+    <region>Americas</region>
+    <subregion>Caribbean</subregion>
+    <population>186000</population>
+    <area>616.0</area>
+    <timezones>
+      <element>UTC-04:00</element>
+    </timezones>
+  </element>
+  <element>
+    <flag>https:\/\/restcountries.eu\/data\/maf.svg</flag>
+    <name>Saint Martin (French part)</name>
+    <capital>Marigot</capital>
+    <region>Americas</region>
+    <subregion>Caribbean</subregion>
+    <population>36979</population>
+    <area>53.0</area>
+    <timezones>
+      <element>UTC-04:00</element>
+    </timezones>
+  </element>
+  <element>
+    <flag>https:\/\/restcountries.eu\/data\/spm.svg</flag>
+    <name>Saint Pierre and Miquelon</name>
+    <capital>Saint-Pierre</capital>
+    <region>Americas</region>
+    <subregion>Northern America</subregion>
+    <population>6069</population>
+    <area>242.0</area>
+    <timezones>
+      <element>UTC-03:00</element>
+    </timezones>
+  </element>
+  <element>
+    <flag>https:\/\/restcountries.eu\/data\/vct.svg</flag>
+    <name>Saint Vincent and the Grenadines</name>
+    <capital>Kingstown</capital>
+    <region>Americas</region>
+    <subregion>Caribbean</subregion>
+    <population>109991</population>
+    <area>389.0</area>
+    <timezones>
+      <element>UTC-04:00</element>
+    </timezones>
+  </element>
+  <element>
+    <flag>https:\/\/restcountries.eu\/data\/wsm.svg</flag>
+    <name>Samoa</name>
+    <capital>Apia</capital>
+    <region>Oceania</region>
+    <subregion>Polynesia</subregion>
+    <population>194899</population>
+    <area>2842.0</area>
+    <timezones>
+      <element>UTC+13:00</element>
+    </timezones>
+  </element>
+  <element>
+    <flag>https:\/\/restcountries.eu\/data\/smr.svg</flag>
+    <name>San Marino</name>
+    <capital>City of San Marino</capital>
+    <region>Europe</region>
+    <subregion>Southern Europe</subregion>
+    <population>33005</population>
+    <area>61.0</area>
+    <timezones>
+      <element>UTC+01:00</element>
+    </timezones>
+  </element>
+  <element>
+    <flag>https:\/\/restcountries.eu\/data\/stp.svg</flag>
+    <name>Sao Tome and Principe</name>
+    <capital>São Tomé</capital>
+    <region>Africa</region>
+    <subregion>Middle Africa</subregion>
+    <population>187356</population>
+    <area>964.0</area>
+    <timezones>
+      <element>UTC</element>
+    </timezones>
+  </element>
+  <element>
+    <flag>https:\/\/restcountries.eu\/data\/sau.svg</flag>
+    <name>Saudi Arabia</name>
+    <capital>Riyadh</capital>
+    <region>Asia</region>
+    <subregion>Western Asia</subregion>
+    <population>32248200</population>
+    <area>2149690.0</area>
+    <timezones>
+      <element>UTC+03:00</element>
+    </timezones>
+  </element>
+  <element>
+    <flag>https:\/\/restcountries.eu\/data\/sen.svg</flag>
+    <name>Senegal</name>
+    <capital>Dakar</capital>
+    <region>Africa</region>
+    <subregion>Western Africa</subregion>
+    <population>14799859</population>
+    <area>196722.0</area>
+    <timezones>
+      <element>UTC</element>
+    </timezones>
+  </element>
+  <element>
+    <flag>https:\/\/restcountries.eu\/data\/srb.svg</flag>
+    <name>Serbia</name>
+    <capital>Belgrade</capital>
+    <region>Europe</region>
+    <subregion>Southern Europe</subregion>
+    <population>7076372</population>
+    <area>88361.0</area>
+    <timezones>
+      <element>UTC+01:00</element>
+    </timezones>
+  </element>
+  <element>
+    <flag>https:\/\/restcountries.eu\/data\/syc.svg</flag>
+    <name>Seychelles</name>
+    <capital>Victoria</capital>
+    <region>Africa</region>
+    <subregion>Eastern Africa</subregion>
+    <population>91400</population>
+    <area>452.0</area>
+    <timezones>
+      <element>UTC+04:00</element>
+    </timezones>
+  </element>
+  <element>
+    <flag>https:\/\/restcountries.eu\/data\/sle.svg</flag>
+    <name>Sierra Leone</name>
+    <capital>Freetown</capital>
+    <region>Africa</region>
+    <subregion>Western Africa</subregion>
+    <population>7075641</population>
+    <area>71740.0</area>
+    <timezones>
+      <element>UTC</element>
+    </timezones>
+  </element>
+  <element>
+    <flag>https:\/\/restcountries.eu\/data\/sgp.svg</flag>
+    <name>Singapore</name>
+    <capital>Singapore</capital>
+    <region>Asia</region>
+    <subregion>South-Eastern Asia</subregion>
+    <population>5535000</population>
+    <area>710.0</area>
+    <timezones>
+      <element>UTC+08:00</element>
+    </timezones>
+  </element>
+  <element>
+    <flag>https:\/\/restcountries.eu\/data\/sxm.svg</flag>
+    <name>Sint Maarten (Dutch part)</name>
+    <capital>Philipsburg</capital>
+    <region>Americas</region>
+    <subregion>Caribbean</subregion>
+    <population>38247</population>
+    <area>34.0</area>
+    <timezones>
+      <element>UTC-04:00</element>
+    </timezones>
+  </element>
+  <element>
+    <flag>https:\/\/restcountries.eu\/data\/svk.svg</flag>
+    <name>Slovakia</name>
+    <capital>Bratislava</capital>
+    <region>Europe</region>
+    <subregion>Eastern Europe</subregion>
+    <population>5426252</population>
+    <area>49037.0</area>
+    <timezones>
+      <element>UTC+01:00</element>
+    </timezones>
+  </element>
+  <element>
+    <flag>https:\/\/restcountries.eu\/data\/svn.svg</flag>
+    <name>Slovenia</name>
+    <capital>Ljubljana</capital>
+    <region>Europe</region>
+    <subregion>Southern Europe</subregion>
+    <population>2064188</population>
+    <area>20273.0</area>
+    <timezones>
+      <element>UTC+01:00</element>
+    </timezones>
+  </element>
+  <element>
+    <flag>https:\/\/restcountries.eu\/data\/slb.svg</flag>
+    <name>Solomon Islands</name>
+    <capital>Honiara</capital>
+    <region>Oceania</region>
+    <subregion>Melanesia</subregion>
+    <population>642000</population>
+    <area>28896.0</area>
+    <timezones>
+      <element>UTC+11:00</element>
+    </timezones>
+  </element>
+  <element>
+    <flag>https:\/\/restcountries.eu\/data\/som.svg</flag>
+    <name>Somalia</name>
+    <capital>Mogadishu</capital>
+    <region>Africa</region>
+    <subregion>Eastern Africa</subregion>
+    <population>11079000</population>
+    <area>637657.0</area>
+    <timezones>
+      <element>UTC+03:00</element>
+    </timezones>
+  </element>
+  <element>
+    <flag>https:\/\/restcountries.eu\/data\/zaf.svg</flag>
+    <name>South Africa</name>
+    <capital>Pretoria</capital>
+    <region>Africa</region>
+    <subregion>Southern Africa</subregion>
+    <population>55653654</population>
+    <area>1221037.0</area>
+    <timezones>
+      <element>UTC+02:00</element>
+    </timezones>
+  </element>
+  <element>
+    <flag>https:\/\/restcountries.eu\/data\/sgs.svg</flag>
+    <name>South Georgia and the South Sandwich Islands</name>
+    <capital>King Edward Point</capital>
+    <region>Americas</region>
+    <subregion>South America</subregion>
+    <population>30</population>
+    <timezones>
+      <element>UTC-02:00</element>
+    </timezones>
+  </element>
+  <element>
+    <flag>https:\/\/restcountries.eu\/data\/kor.svg</flag>
+    <name>Korea (Republic of)</name>
+    <capital>Seoul</capital>
+    <region>Asia</region>
+    <subregion>Eastern Asia</subregion>
+    <population>50801405</population>
+    <area>100210.0</area>
+    <timezones>
+      <element>UTC+09:00</element>
+    </timezones>
+  </element>
+  <element>
+    <flag>https:\/\/restcountries.eu\/data\/ssd.svg</flag>
+    <name>South Sudan</name>
+    <capital>Juba</capital>
+    <region>Africa</region>
+    <subregion>Middle Africa</subregion>
+    <population>12131000</population>
+    <area>619745.0</area>
+    <timezones>
+      <element>UTC+03:00</element>
+    </timezones>
+  </element>
+  <element>
+    <flag>https:\/\/restcountries.eu\/data\/esp.svg</flag>
+    <name>Spain</name>
+    <capital>Madrid</capital>
+    <region>Europe</region>
+    <subregion>Southern Europe</subregion>
+    <population>46438422</population>
+    <area>505992.0</area>
+    <timezones>
+      <element>UTC</element>
+      <element>UTC+01:00</element>
+    </timezones>
+  </element>
+  <element>
+    <flag>https:\/\/restcountries.eu\/data\/lka.svg</flag>
+    <name>Sri Lanka</name>
+    <capital>Colombo</capital>
+    <region>Asia</region>
+    <subregion>Southern Asia</subregion>
+    <population>20966000</population>
+    <area>65610.0</area>
+    <timezones>
+      <element>UTC+05:30</element>
+    </timezones>
+  </element>
+  <element>
+    <flag>https:\/\/restcountries.eu\/data\/sdn.svg</flag>
+    <name>Sudan</name>
+    <capital>Khartoum</capital>
+    <region>Africa</region>
+    <subregion>Northern Africa</subregion>
+    <population>39598700</population>
+    <area>1886068.0</area>
+    <timezones>
+      <element>UTC+03:00</element>
+    </timezones>
+  </element>
+  <element>
+    <flag>https:\/\/restcountries.eu\/data\/sur.svg</flag>
+    <name>Suriname</name>
+    <capital>Paramaribo</capital>
+    <region>Americas</region>
+    <subregion>South America</subregion>
+    <population>541638</population>
+    <area>163820.0</area>
+    <timezones>
+      <element>UTC-03:00</element>
+    </timezones>
+  </element>
+  <element>
+    <flag>https:\/\/restcountries.eu\/data\/sjm.svg</flag>
+    <name>Svalbard and Jan Mayen</name>
+    <capital>Longyearbyen</capital>
+    <region>Europe</region>
+    <subregion>Northern Europe</subregion>
+    <population>2562</population>
+    <timezones>
+      <element>UTC+01:00</element>
+    </timezones>
+  </element>
+  <element>
+    <flag>https:\/\/restcountries.eu\/data\/swz.svg</flag>
+    <name>Swaziland</name>
+    <capital>Lobamba</capital>
+    <region>Africa</region>
+    <subregion>Southern Africa</subregion>
+    <population>1132657</population>
+    <area>17364.0</area>
+    <timezones>
+      <element>UTC+02:00</element>
+    </timezones>
+  </element>
+  <element>
+    <flag>https:\/\/restcountries.eu\/data\/swe.svg</flag>
+    <name>Sweden</name>
+    <capital>Stockholm</capital>
+    <region>Europe</region>
+    <subregion>Northern Europe</subregion>
+    <population>9894888</population>
+    <area>450295.0</area>
+    <timezones>
+      <element>UTC+01:00</element>
+    </timezones>
+  </element>
+  <element>
+    <flag>https:\/\/restcountries.eu\/data\/che.svg</flag>
+    <name>Switzerland</name>
+    <capital>Bern</capital>
+    <region>Europe</region>
+    <subregion>Western Europe</subregion>
+    <population>8341600</population>
+    <area>41284.0</area>
+    <timezones>
+      <element>UTC+01:00</element>
+    </timezones>
+  </element>
+  <element>
+    <flag>https:\/\/restcountries.eu\/data\/syr.svg</flag>
+    <name>Syrian Arab Republic</name>
+    <capital>Damascus</capital>
+    <region>Asia</region>
+    <subregion>Western Asia</subregion>
+    <population>18564000</population>
+    <area>185180.0</area>
+    <timezones>
+      <element>UTC+02:00</element>
+    </timezones>
+  </element>
+  <element>
+    <flag>https:\/\/restcountries.eu\/data\/twn.svg</flag>
+    <name>Taiwan</name>
+    <capital>Taipei</capital>
+    <region>Asia</region>
+    <subregion>Eastern Asia</subregion>
+    <population>23503349</population>
+    <area>36193.0</area>
+    <timezones>
+      <element>UTC+08:00</element>
+    </timezones>
+  </element>
+  <element>
+    <flag>https:\/\/restcountries.eu\/data\/tjk.svg</flag>
+    <name>Tajikistan</name>
+    <capital>Dushanbe</capital>
+    <region>Asia</region>
+    <subregion>Central Asia</subregion>
+    <population>8593600</population>
+    <area>143100.0</area>
+    <timezones>
+      <element>UTC+05:00</element>
+    </timezones>
+  </element>
+  <element>
+    <flag>https:\/\/restcountries.eu\/data\/tza.svg</flag>
+    <name>Tanzania, United Republic of</name>
+    <capital>Dodoma</capital>
+    <region>Africa</region>
+    <subregion>Eastern Africa</subregion>
+    <population>55155000</population>
+    <area>945087.0</area>
+    <timezones>
+      <element>UTC+03:00</element>
+    </timezones>
+  </element>
+  <element>
+    <flag>https:\/\/restcountries.eu\/data\/tha.svg</flag>
+    <name>Thailand</name>
+    <capital>Bangkok</capital>
+    <region>Asia</region>
+    <subregion>South-Eastern Asia</subregion>
+    <population>65327652</population>
+    <area>513120.0</area>
+    <timezones>
+      <element>UTC+07:00</element>
+    </timezones>
+  </element>
+  <element>
+    <flag>https:\/\/restcountries.eu\/data\/tls.svg</flag>
+    <name>Timor-Leste</name>
+    <capital>Dili</capital>
+    <region>Asia</region>
+    <subregion>South-Eastern Asia</subregion>
+    <population>1167242</population>
+    <area>14874.0</area>
+    <timezones>
+      <element>UTC+09:00</element>
+    </timezones>
+  </element>
+  <element>
+    <flag>https:\/\/restcountries.eu\/data\/tgo.svg</flag>
+    <name>Togo</name>
+    <capital>Lomé</capital>
+    <region>Africa</region>
+    <subregion>Western Africa</subregion>
+    <population>7143000</population>
+    <area>56785.0</area>
+    <timezones>
+      <element>UTC</element>
+    </timezones>
+  </element>
+  <element>
+    <flag>https:\/\/restcountries.eu\/data\/tkl.svg</flag>
+    <name>Tokelau</name>
+    <capital>Fakaofo</capital>
+    <region>Oceania</region>
+    <subregion>Polynesia</subregion>
+    <population>1411</population>
+    <area>12.0</area>
+    <timezones>
+      <element>UTC+13:00</element>
+    </timezones>
+  </element>
+  <element>
+    <flag>https:\/\/restcountries.eu\/data\/ton.svg</flag>
+    <name>Tonga</name>
+    <capital>Nuku&apos;alofa</capital>
+    <region>Oceania</region>
+    <subregion>Polynesia</subregion>
+    <population>103252</population>
+    <area>747.0</area>
+    <timezones>
+      <element>UTC+13:00</element>
+    </timezones>
+  </element>
+  <element>
+    <flag>https:\/\/restcountries.eu\/data\/tto.svg</flag>
+    <name>Trinidad and Tobago</name>
+    <capital>Port of Spain</capital>
+    <region>Americas</region>
+    <subregion>Caribbean</subregion>
+    <population>1349667</population>
+    <area>5130.0</area>
+    <timezones>
+      <element>UTC-04:00</element>
+    </timezones>
+  </element>
+  <element>
+    <flag>https:\/\/restcountries.eu\/data\/tun.svg</flag>
+    <name>Tunisia</name>
+    <capital>Tunis</capital>
+    <region>Africa</region>
+    <subregion>Northern Africa</subregion>
+    <population>11154400</population>
+    <area>163610.0</area>
+    <timezones>
+      <element>UTC+01:00</element>
+    </timezones>
+  </element>
+  <element>
+    <flag>https:\/\/restcountries.eu\/data\/tur.svg</flag>
+    <name>Turkey</name>
+    <capital>Ankara</capital>
+    <region>Asia</region>
+    <subregion>Western Asia</subregion>
+    <population>78741053</population>
+    <area>783562.0</area>
+    <timezones>
+      <element>UTC+03:00</element>
+    </timezones>
+  </element>
+  <element>
+    <flag>https:\/\/restcountries.eu\/data\/tkm.svg</flag>
+    <name>Turkmenistan</name>
+    <capital>Ashgabat</capital>
+    <region>Asia</region>
+    <subregion>Central Asia</subregion>
+    <population>4751120</population>
+    <area>488100.0</area>
+    <timezones>
+      <element>UTC+05:00</element>
+    </timezones>
+  </element>
+  <element>
+    <flag>https:\/\/restcountries.eu\/data\/tca.svg</flag>
+    <name>Turks and Caicos Islands</name>
+    <capital>Cockburn Town</capital>
+    <region>Americas</region>
+    <subregion>Caribbean</subregion>
+    <population>31458</population>
+    <area>948.0</area>
+    <timezones>
+      <element>UTC-04:00</element>
+    </timezones>
+  </element>
+  <element>
+    <flag>https:\/\/restcountries.eu\/data\/tuv.svg</flag>
+    <name>Tuvalu</name>
+    <capital>Funafuti</capital>
+    <region>Oceania</region>
+    <subregion>Polynesia</subregion>
+    <population>10640</population>
+    <area>26.0</area>
+    <timezones>
+      <element>UTC+12:00</element>
+    </timezones>
+  </element>
+  <element>
+    <flag>https:\/\/restcountries.eu\/data\/uga.svg</flag>
+    <name>Uganda</name>
+    <capital>Kampala</capital>
+    <region>Africa</region>
+    <subregion>Eastern Africa</subregion>
+    <population>33860700</population>
+    <area>241550.0</area>
+    <timezones>
+      <element>UTC+03:00</element>
+    </timezones>
+  </element>
+  <element>
+    <flag>https:\/\/restcountries.eu\/data\/ukr.svg</flag>
+    <name>Ukraine</name>
+    <capital>Kiev</capital>
+    <region>Europe</region>
+    <subregion>Eastern Europe</subregion>
+    <population>42692393</population>
+    <area>603700.0</area>
+    <timezones>
+      <element>UTC+02:00</element>
+    </timezones>
+  </element>
+  <element>
+    <flag>https:\/\/restcountries.eu\/data\/are.svg</flag>
+    <name>United Arab Emirates</name>
+    <capital>Abu Dhabi</capital>
+    <region>Asia</region>
+    <subregion>Western Asia</subregion>
+    <population>9856000</population>
+    <area>83600.0</area>
+    <timezones>
+      <element>UTC+04</element>
+    </timezones>
+  </element>
+  <element>
+    <flag>https:\/\/restcountries.eu\/data\/gbr.svg</flag>
+    <name>United Kingdom of Great Britain and Northern Ireland</name>
+    <capital>London</capital>
+    <region>Europe</region>
+    <subregion>Northern Europe</subregion>
+    <population>65110000</population>
+    <area>242900.0</area>
+    <timezones>
+      <element>UTC-08:00</element>
+      <element>UTC-05:00</element>
+      <element>UTC-04:00</element>
+      <element>UTC-03:00</element>
+      <element>UTC-02:00</element>
+      <element>UTC</element>
+      <element>UTC+01:00</element>
+      <element>UTC+02:00</element>
+      <element>UTC+06:00</element>
+    </timezones>
+  </element>
+  <element>
+    <flag>https:\/\/restcountries.eu\/data\/usa.svg</flag>
+    <name>United States of America</name>
+    <capital>Washington, D.C.</capital>
+    <region>Americas</region>
+    <subregion>Northern America</subregion>
+    <population>323947000</population>
+    <area>9629091.0</area>
+    <timezones>
+      <element>UTC-12:00</element>
+      <element>UTC-11:00</element>
+      <element>UTC-10:00</element>
+      <element>UTC-09:00</element>
+      <element>UTC-08:00</element>
+      <element>UTC-07:00</element>
+      <element>UTC-06:00</element>
+      <element>UTC-05:00</element>
+      <element>UTC-04:00</element>
+      <element>UTC+10:00</element>
+      <element>UTC+12:00</element>
+    </timezones>
+  </element>
+  <element>
+    <flag>https:\/\/restcountries.eu\/data\/ury.svg</flag>
+    <name>Uruguay</name>
+    <capital>Montevideo</capital>
+    <region>Americas</region>
+    <subregion>South America</subregion>
+    <population>3480222</population>
+    <area>181034.0</area>
+    <timezones>
+      <element>UTC-03:00</element>
+    </timezones>
+  </element>
+  <element>
+    <flag>https:\/\/restcountries.eu\/data\/uzb.svg</flag>
+    <name>Uzbekistan</name>
+    <capital>Tashkent</capital>
+    <region>Asia</region>
+    <subregion>Central Asia</subregion>
+    <population>31576400</population>
+    <area>447400.0</area>
+    <timezones>
+      <element>UTC+05:00</element>
+    </timezones>
+  </element>
+  <element>
+    <flag>https:\/\/restcountries.eu\/data\/vut.svg</flag>
+    <name>Vanuatu</name>
+    <capital>Port Vila</capital>
+    <region>Oceania</region>
+    <subregion>Melanesia</subregion>
+    <population>277500</population>
+    <area>12189.0</area>
+    <timezones>
+      <element>UTC+11:00</element>
+    </timezones>
+  </element>
+  <element>
+    <flag>https:\/\/restcountries.eu\/data\/ven.svg</flag>
+    <name>Venezuela (Bolivarian Republic of)</name>
+    <capital>Caracas</capital>
+    <region>Americas</region>
+    <subregion>South America</subregion>
+    <population>31028700</population>
+    <area>916445.0</area>
+    <timezones>
+      <element>UTC-04:00</element>
+    </timezones>
+  </element>
+  <element>
+    <flag>https:\/\/restcountries.eu\/data\/vnm.svg</flag>
+    <name>Viet Nam</name>
+    <capital>Hanoi</capital>
+    <region>Asia</region>
+    <subregion>South-Eastern Asia</subregion>
+    <population>92700000</population>
+    <area>331212.0</area>
+    <timezones>
+      <element>UTC+07:00</element>
+    </timezones>
+  </element>
+  <element>
+    <flag>https:\/\/restcountries.eu\/data\/wlf.svg</flag>
+    <name>Wallis and Futuna</name>
+    <capital>Mata-Utu</capital>
+    <region>Oceania</region>
+    <subregion>Polynesia</subregion>
+    <population>11750</population>
+    <area>142.0</area>
+    <timezones>
+      <element>UTC+12:00</element>
+    </timezones>
+  </element>
+  <element>
+    <flag>https:\/\/restcountries.eu\/data\/esh.svg</flag>
+    <name>Western Sahara</name>
+    <capital>El Aaiún</capital>
+    <region>Africa</region>
+    <subregion>Northern Africa</subregion>
+    <population>510713</population>
+    <area>266000.0</area>
+    <timezones>
+      <element>UTC+00:00</element>
+    </timezones>
+  </element>
+  <element>
+    <flag>https:\/\/restcountries.eu\/data\/yem.svg</flag>
+    <name>Yemen</name>
+    <capital>Sana&apos;a</capital>
+    <region>Asia</region>
+    <subregion>Western Asia</subregion>
+    <population>27478000</population>
+    <area>527968.0</area>
+    <timezones>
+      <element>UTC+03:00</element>
+    </timezones>
+  </element>
+  <element>
+    <flag>https:\/\/restcountries.eu\/data\/zmb.svg</flag>
+    <name>Zambia</name>
+    <capital>Lusaka</capital>
+    <region>Africa</region>
+    <subregion>Eastern Africa</subregion>
+    <population>15933883</population>
+    <area>752612.0</area>
+    <timezones>
+      <element>UTC+02:00</element>
+    </timezones>
+  </element>
+  <element>
+    <flag>https:\/\/restcountries.eu\/data\/zwe.svg</flag>
+    <name>Zimbabwe</name>
+    <capital>Harare</capital>
+    <region>Africa</region>
+    <subregion>Eastern Africa</subregion>
+    <population>14240168</population>
+    <area>390757.0</area>
+    <timezones>
+      <element>UTC+02:00</element>
+    </timezones>
+  </element>
+</root>
