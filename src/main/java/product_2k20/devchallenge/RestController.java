@@ -1,11 +1,7 @@
 package product_2k20.devchallenge;
 
-import com.sun.xml.internal.bind.v2.runtime.XMLSerializer;
-import org.apache.tomcat.util.http.fileupload.FileUtils;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.GetMapping;
-import org.springframework.web.bind.annotation.RequestMapping;
-import org.springframework.web.bind.annotation.RequestMethod;
 import org.springframework.web.client.RestTemplate;
 import com.github.underscore.lodash.$;
 
